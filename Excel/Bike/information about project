@@ -1,0 +1,43 @@
+# Bike Sales Analysis
+
+## 📌 Project Overview
+
+This Excel dashboard analyzes bike sales data to identify customer purchasing behavior and sales performance.
+
+## 🎯 Objectives
+
+- Analyze bike sales
+- Understand customer demographics
+- Identify purchasing trends
+- Build an interactive dashboard
+
+## 🛠️ Tools
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## 📊 Dashboard KPIs
+
+- Total Sales
+- Average Income
+- Customer Age Distribution
+- Commute Distance
+- Purchase Status
+- Gender Analysis
+
+## 📈 Insights
+
+- Customers with higher income were more likely to purchase bikes.
+- Middle-aged customers represented the largest customer segment.
+- Commute distance influenced purchasing decisions.
+
+## 📂 Files
+
+- Bike Project.xlsx
+
+## 👤 Author
+
+Abdelrahman Gaballah
