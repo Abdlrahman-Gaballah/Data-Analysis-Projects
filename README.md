@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+ 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio! 👋
 
@@ -121,7 +121,7 @@ Helping Businesses See What the Data Says & Turning Raw Data into Business Insig
 ## 🤝 Let's Connect
 
 💼 **LinkedIn**
-https://www.linkedin.com/in/abdelrahman-gaballah-analyst/?skipRedirect=true
+https://www.linkedin.com/in/abdelrahman-gaballah-analyst/
 
 💻 **GitHub**
 https://github.com/AbdelrahmanGaballah
