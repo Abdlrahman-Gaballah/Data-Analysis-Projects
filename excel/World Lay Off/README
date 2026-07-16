@@ -1,1 +1,38 @@
+# Global Layoffs Data Analysis
+ 📌 Project Overview
 
+This project explores global layoff data using SQL, Python, and Power BI to uncover trends across industries, companies, countries, and time periods.
+
+🎯 Objectives
+
+- Clean and prepare the dataset
+- Perform exploratory data analysis
+- Identify layoff trends
+- Analyze industries and countries
+- Build an interactive Excel dashboard
+ 🛠️ Technologies
+- Excel
+
+ 📊 KPIs
+
+- Total Layoffs
+- Layoffs by Country
+- Layoffs by Industry
+- Layoffs by Company
+- Monthly Layoff Trend
+- Percentage of Employees Laid Off
+
+ 📈 Key Insights
+
+- Technology companies experienced the highest layoffs.
+- Layoffs peaked during economic downturns.
+- The United States recorded the largest number of layoffs.
+- Several industries recovered over time.
+
+ 📂 Files
+
+- layoffs analysis.xlsx
+
+ 👤 Author
+
+Abdelrahman Gaballah
