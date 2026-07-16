@@ -1,1 +1,230 @@
+# 📊 Power BI Projects Portfolio
 
+Welcome to my **Power BI Projects** repository! 👋
+
+I'm **Abdelrahman Gaballah**, Junior Data Analyst | Excel, Power BI & SQL | Data Cleaning, Dashboards  | Helping Businesses See What the Data Says & Turning Raw Data into Business Insights
+
+This repository showcases a collection of Power BI projects built using real-world datasets. Each project demonstrates the complete Business Intelligence workflow—from data preparation and modeling to visualization and actionable business insights.
+
+---
+
+ 🚀 About This Repository
+
+The projects in this repository are designed to solve real business problems using Power BI.
+
+They demonstrate my ability to:
+
+- Transform raw data into interactive dashboards
+- Design efficient data models
+- Create powerful DAX measures
+- Build business KPIs
+- Develop insightful visualizations
+- Support data-driven decision-making
+- Tell compelling stories with data
+
+---
+
+ 🛠️ Tools & Technologies
+
+| Technology | Purpose |
+|------------|---------|
+| 📊 Power BI Desktop | Dashboard Development |
+| ⚡ Power Query | Data Cleaning & Transformation |
+| 📐 DAX | Calculated Measures & KPIs |
+| 🗂️ Data Modeling | Relationships & Star Schema |
+| 📄 Excel | Data Source |
+| 🗄️ SQL | Data Extraction & Preparation |
+
+---
+
+ 📂 Projects Included
+
+ 📈 Hr Dashboard
+
+Analyze business performance through:
+
+- Attrition count by department 
+- Attrition trend by years at company 
+- Job Role × Job Satisfaction pivot table
+- Attrition by education field 
+- Attrition vs. salary hike 
+- Attrition by job level 
+
+---
+
+🛒 BlinkIT Grocery Sales Dashboard
+
+Business Intelligence dashboard focusing on:
+
+- Grocery Sales Performance
+- Product Categories
+- Outlet Analysis
+- Customer Ratings
+- Inventory Insights
+- Sales Trends
+
+---
+
+🌍 Global Layoffs Dashboard
+
+Interactive dashboard analyzing worldwide layoffs.
+
+Key analyses include:
+
+- Layoffs by Country
+- Layoffs by Industry
+- Company Performance
+- Monthly Trends
+- Economic Impact
+
+---
+
+📊 Dashboard Features
+
+✔ Interactive Filters (Slicers)
+
+✔ Drill-through Pages
+
+✔ Drill-down Analysis
+
+✔ Dynamic KPIs
+
+✔ Custom DAX Measures
+
+✔ Bookmarks
+
+✔ Tooltips
+
+✔ Responsive Layout
+
+✔ Business Storytelling
+
+---
+
+📈 Key Skills Demonstrated
+
+- Data Cleaning
+- Power Query
+- Data Modeling
+- Star Schema Design
+- DAX Calculations
+- Time Intelligence
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Storytelling with Data
+
+---
+
+ 📋 Typical Workflow
+
+```
+Business Problem
+        ↓
+Data Collection
+        ↓
+Data Cleaning
+        ↓
+Power Query
+        ↓
+Data Modeling
+        ↓
+DAX Calculations
+        ↓
+Dashboard Design
+        ↓
+Business Insights
+        ↓
+Recommendations
+```
+
+---
+
+ 📊 KPIs Included
+
+Examples of KPIs used across these projects:
+
+- Total Revenue
+- Total Sales
+- Total Profit
+- Profit Margin
+- Sales Growth
+- Average Order Value
+- Customer Count
+- Customer Satisfaction
+- Market Share
+- Top Products
+- Top Customers
+- Sales by Region
+
+---
+
+💡 What You'll Find
+
+Each project includes:
+
+- 📊 Power BI Dashboard (.pbix)
+- 📁 Dataset
+- 📸 Dashboard Screenshots
+- 📈 KPIs
+- 💼 Business Insights
+- 📖 Project Documentation
+
+---
+
+ 🎯 Why Power BI?
+
+Power BI is one of the leading Business Intelligence platforms that enables organizations to:
+
+- Visualize complex data
+- Monitor KPIs
+- Track business performance
+- Discover trends
+- Improve decision-making
+- Share interactive reports across teams
+
+This repository demonstrates how Power BI can transform data into valuable business insights.
+
+---
+
+👨‍💻 About Me
+
+Hi! I'm **Abdelrahman Gaballah**, Junior Data Analyst | Excel, Power BI & SQL | Data Cleaning, Dashboards  | Helping Businesses See What the Data Says & Turning Raw Data into Business Insights
+
+ Technical Skills
+
+- 📊 Power BI
+- 📄 Excel
+- 🗄️ SQL
+- 🐍 Python
+- 📈 Data Visualization
+- 📉 Business Intelligence
+- 📊 Dashboard Development
+
+---
+
+ 🤝 Let's Connect
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/abdelrahman-gaballah-analyst/
+
+💻 **GitHub**
+
+https://github.com/AbdelrahmanGaballah
+
+📧 **Email**
+
+abelrahman.ibrahem1996@gmail.com
+---
+
+# ⭐ Thank You
+
+Thank you for visiting my Power BI portfolio!
+
+If you enjoyed these projects or found them useful, consider giving this repository a ⭐ **Star**.
+
+I'm always open to feedback, collaboration, and opportunities in **Data Analytics** and **Business Intelligence**.
+
+Happy Exploring! 🚀
