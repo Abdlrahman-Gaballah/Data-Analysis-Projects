@@ -31,7 +31,7 @@ Every project is designed to solve a business problem, uncover valuable insights
 |------|---------|
 | 📊 Excel | Data Cleaning, Pivot Tables, Dashboards |
 | 🗄️ SQL | Data Extraction, Transformation & Analysis |
-| 🐍 Python | Data Cleaning, EDA, Automation |
+| 🐍 Python | Data Cleaning, EDA |
 | 📈 Power BI | Interactive Dashboards & Business Intelligence |
 
 ---
