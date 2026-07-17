@@ -1,10 +1,5 @@
  🌍 Earthquake & Tsunami Data Cleaning + Exploratory Analysis
 
-A **MySQL** project that cleans a global earthquake dataset and explores the relationship between earthquake magnitude, depth, and tsunami occurrence.
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Window%20Functions%20%7C%20CTEs-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
 
  📌 Overview
 
