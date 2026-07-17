@@ -1,11 +1,5 @@
  🏥 Healthcare Community Health Camps Analysis
 
-An end-to-end **SQL (MySQL)** project analyzing patient attendance across a healthcare organization's community health camps — cleaning fragmented registration data, connecting six related tables, and surfacing patient behavior, loyalty, and data-quality insights.
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CTEs%20%7C%20Joins%20%7C%20Window%20Functions-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
-
 ## 📌 Overview
 
 The goal of this project was to understand patient behavior, identify high-performing camp categories, and uncover geographical and demographic insights to improve attendance rates across three types of health camps.
