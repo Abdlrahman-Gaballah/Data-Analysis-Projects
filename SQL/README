@@ -1,1 +1,30 @@
 
+ 🗄️ SQL Data Analytics Projects
+
+A collection of end-to-end SQL (MySQL) projects covering the full analytics pipeline — schema design, data cleaning, and exploratory/diagnostic analysis — across three different domains.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CTEs%20%7C%20Window%20Functions%20%7C%20Joins-blue?style=for-the-badge)
+
+ 📁 Projects
+
+ 🏥 [Healthcare Community Health Camps Analysis](./Healthcare_Camps_README.md)
+A 7-table relational model tracking patient registrations and attendance across three health camp formats. Covers full schema design, foreign-key relationships, data cleaning, and patient loyalty/geographic analysis.
+**Highlights:** 56.34% attendance rate for top camp category, loyal "Super-User" patient segment, critical data-quality gap identified in city data.
+
+ 📉 [Global Tech Layoffs — SQL Cleaning & Analysis](./Layoffs_SQL_README.md)
+A staging-table cleaning pipeline for a raw global layoffs dataset, followed by descriptive, diagnostic, predictive, and prescriptive analysis. Companion to the Global Tech Layoffs Power BI dashboard.
+**Highlights:** funding-efficiency scoring, rolling monthly layoff totals, top companies per year, industries that stayed relatively safe.
+
+ 🌍 [Earthquake & Tsunami Data Cleaning + EDA](./Earthquake_SQL_README.md)
+A staging/backup-based deduplication process for seismic event data, followed by exploratory analysis of magnitude, depth, and tsunami correlation.
+**Highlights:** magnitude-category distribution, tsunami vs. non-tsunami magnitude comparison, yearly and monthly trend analysis.
+
+ 🧰 Common Techniques Across Projects
+
+- Staging-table / backup-table patterns to protect raw data during cleaning
+- Deduplication via `ROW_NUMBER()` partitioned over key columns
+- Data type conversion and standardization (dates, blanks, inconsistent category names)
+- CTEs, window functions (`ROW_NUMBER`, `DENSE_RANK`, running totals), joins, and subqueries
+- Structured analysis progression: data discovery → cleaning → exploratory analysis → business-question-driven analysis
+
