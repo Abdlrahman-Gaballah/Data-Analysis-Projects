@@ -1,1 +1,61 @@
+ 📉 Global Tech Layoffs Analysis (2022–2024)
 
+Uncovering the relationship between funding, geography, and workforce reductions.
+
+An end-to-end Power BI data story that turns raw, fragmented layoff data into decision-ready insight — combining data cleaning, DAX engineering, and visual analytics to explore why the "Great Layoff" happened and what it reveals about the tech industry.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
+
+ 📌 Overview
+
+This project follows a real-world analytics pipeline:
+1. **Data Cleaning** — resolving missing values, removing inconsistencies, and standardizing company and industry names to build a trustworthy dataset
+2. **DAX Engineering** — dynamic measures for total layoffs, layoff percentages, and funding metrics that respond live to filters and slicers
+3. **Visual Analytics** — linking time, funding, geography, and industry to surface patterns not visible in the raw numbers
+
+The report is built around **three core business questions**:
+- **The Time Factor** — Are layoffs accelerating or stabilizing? (time-series analysis, 2022–2024)
+- **The Funding Paradox** — Does more funding mean more stability? (scatter analysis of funding vs. workforce cuts)
+- **The Geography of Impact** — Where did the crisis hit hardest? (map + treemap by country/industry)
+
+ 📄 Report Pages
+
+| Page | Contents |
+|---|---|
+| **Introduction** | Project story, methodology, and the three guiding KPIs |
+| **Summary** | KPI ribbon (affected companies, average layoff, impacted funding, total laid off), layoffs over time (area chart), layoffs by industry (donut), slicers for Year / Country / Industry / Stage / Funds Raised |
+| **Industry & Company Analysis** | Top 10 industries by company count and by people affected, layoffs by company stage, company-level treemap, detailed drill-down table |
+| **Time Analysis** | Monthly layoff trend, layoffs by quarter and sector, global map of layoff "epicenters," countries with the highest layoffs |
+| **Financial Analysis** | Layoffs by funding stage (donut), *Impact of Capital* — funding vs. workforce reduction (scatter chart) |
+| **Conclusion & Opinion** | Narrative takeaways plus a "Problem → Opinion → Suggestion" breakdown of root causes |
+
+💡 Key Insights
+
+- **2023 was the eye of the hurricane** — the industry shows early signs of stabilizing in 2024
+- **The Funding Paradox**: heavily funded "unicorns" often faced the steepest cuts, while leaner companies fared better — more capital didn't mean more safety
+- Layoffs began in Silicon Valley but spread hardest into **Europe and India**, particularly in Consumer and Retail sectors
+- Root causes explored in the conclusion: pandemic-era over-hiring, "easy money" burn rates, socially contagious layoffs (following industry leaders), and simultaneous firing/hiring across shifting skill sets (traditional tech vs. AI/Data Science)
+
+Each root cause is paired with a suggested fix — e.g. elastic workforce models, shifting KPIs toward unit economics, radical financial transparency, and internal talent marketplaces for re-skilling instead of churn.
+
+ 🧰 Tools & Skills
+
+- **Power BI Desktop** — data modeling, DAX, multi-page report design and storytelling
+- **Power Query** — data cleaning and standardization
+- **DAX** — custom measures (total layoffs, average layoff, impacted funding, affected companies, total funding)
+- Visuals: line/area charts, clustered bar charts, donut charts, treemap, scatter chart, map, KPI cards, drill-down table, slicers, page navigation buttons
+
+ 📂 Repository Contents
+
+```
+├── layoffs.pbix     # Power BI report file
+└── README.md         # Project documentation
+```
+
+
+## 👤 Author
+
+**Abdelrahman** — Data Analyst
+🔗 [GitHub Portfolio](https://github.com/Abdelrahman-The-Analyst
