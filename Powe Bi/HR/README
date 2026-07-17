@@ -1,1 +1,52 @@
+📌 Overview
 
+This project analyzes the HR Employee Attrition dataset to uncover patterns behind employee turnover — age, department, tenure, salary band, education, and gender — and translates those patterns into actionable HR recommendations. The report is built as a 3-page narrative: Dashboard → Insights → Recommendations.
+
+📄 Report Pages
+
+1. Dashboard
+
+Interactive overview with slicers (Age, Department, Gender) and KPI cards for Employee Count, Attrition, Average Age, Average Monthly Income, and Average Years at Company, plus:
+
+
+Attrition count by department (combo chart)
+Attrition trend by years at company (area chart)
+Job Role × Job Satisfaction pivot table
+Attrition by education field (funnel)
+Attrition vs. salary hike (bar chart)
+Attrition by job level (area chart)
+
+
+2. Insights
+
+Key findings extracted from the data:
+
+
+Average age of employees who left: 37 years
+Research & Development had the highest attrition — 133 departures (56% attrition rate), vs. Sales (39%) and HR (5%)
+69% of employees who left earned below $5,000/month
+Highest attrition by tenure: 1 year (25%), then 2 years (11%) and 5 years (9%)
+Educational background of leavers: Life Science (89), Medical (63), Marketing (35)
+Attrition rate by gender: Male 17% vs. Female 14.8%
+
+
+3. Recommendations
+
+Data-driven actions for HR, including:
+
+
+Targeted retention strategies for employees around 40 years old
+Focused intervention on Research & Development attrition
+Improved compensation for lower salary bands
+Early-career engagement initiatives
+Career growth paths aligned to educational background
+Diversity & inclusion focus on gender attrition gaps
+Regular salary benchmarking to stay competitive
+
+
+🧰 Tools & Skills
+
+
+Power BI Desktop — data modeling, report design, storytelling layout
+DAX — custom measures (Attrition Count, Average Age, Average Monthly Income, Average Years at Company)
+Interactive slicers, combo/area/funnel/bar charts, pivot tables, action buttons for page navigation
