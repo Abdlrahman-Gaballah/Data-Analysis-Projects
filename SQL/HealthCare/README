@@ -1,1 +1,71 @@
+ 🏥 Healthcare Community Health Camps Analysis
+
+An end-to-end **SQL (MySQL)** project analyzing patient attendance across a healthcare organization's community health camps — cleaning fragmented registration data, connecting six related tables, and surfacing patient behavior, loyalty, and data-quality insights.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CTEs%20%7C%20Joins%20%7C%20Window%20Functions-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
+
+## 📌 Overview
+
+The goal of this project was to understand patient behavior, identify high-performing camp categories, and uncover geographical and demographic insights to improve attendance rates across three types of health camps.
+
+🗂️ Database Schema
+
+Built in MySQL Workbench (`erd.mwb`, visualized in `ERD.png`), the model connects 7 tables via foreign keys on `Patient_ID` and `Health_Camp_ID`:
+
+- **Patient_Profile** — demographics (Age, Income, Education Score, City Type, Employer Category, social follower flags)
+- **Health_Camp_Detail** — camp metadata (start/end dates, Category 1/2/3)
+- **Train** — camp registrations
+- **First / Second / Third_Health_Camp_Attended** — actual attendance records, one table per camp format
+- **Test** — holdout registration data
+
+ 🧭 Project Workflow
+
+| Step | File | What it does |
+|---|---|---|
+| 1. Build the database | `creating_data_base.sql` | Creates `Healthcare_DB` and all 7 tables with defined schemas |
+| 2. Discover the data | `discover_data.sql` | Initial exploration of every table |
+| 3. Clean the data | `data_cleaning.sql` | Converts date strings to proper `DATE` types, nulls out blank/`'None'` values, fixes column types, checks for duplicate registrations and logical date errors |
+| 4. Connect the tables | `connection_betwen_tables.sql` | Adds foreign key constraints linking Train and each attendance table to Patient_Profile and Health_Camp_Detail |
+| 5. Explore the data | `Exploratory_Data_Analysis.sql` | Record counts, missing-value checks, age-group distribution, camp category breakdown |
+| 6. Analyze | `Analysis.sql` | Attendance rate by camp category, top 10 loyal patients, loyalty by city, cross-category loyalty, geographic analysis, income vs. education, registration-window analysis |
+
+💡 Key Insights
+
+- **Category 3** camps had the highest attendance rate at **56.34%**, followed by Category 2 at **51.73%**
+- **City B** is the most engaged geographical segment
+- Patients who register **7–30 days** before a camp have the highest attendance probability, outperforming both last-minute and very-early registrants
+- A core group of **"Super-User" patients** attended all 3 camp types, with some attending **up to 8 events total**
+- **Data quality gap**: over **5,000 records** are missing `City_Type`, limiting geographic analysis accuracy
+
+ 🚀 Recommendations
+
+- **Strategic shift**: prioritize marketing spend on City B and Category 2/3 camp formats; investigate low engagement in Category 1
+- **Retention**: launch a loyalty program / premium membership for the identified Super-User segment
+- **Engagement**: implement SMS reminders targeted at "early bird" registrants to sustain engagement until the camp date
+- **Data governance**: make `City_Type` a mandatory field in the registration system to close the data gap
+
+ 📂 Repository Contents
+
+```
+├── erd.mwb                          # MySQL Workbench EER model
+├── ERD.png                          # Exported schema diagram
+├── creating_data_base.sql
+├── discover_data.sql
+├── data_cleaning.sql
+├── connection_betwen_tables.sql
+├── Exploratory_Data_Analysis.sql
+├── Analysis.sql
+├── summery.docx                     # Executive summary
+└── README.md
+```
+
+▶️ How to Run
+
+1. Open `erd.mwb` in MySQL Workbench to review the schema, or run `creating_data_base.sql` directly to build it
+2. Import the source CSVs into the created tables
+3. Run `data_cleaning.sql` to standardize types and handle nulls/blanks
+4. Run `connection_betwen_tables.sql` to establish foreign key relationships
+5. Run `Exploratory_Data_Analysis.sql` and `Analysis.sql` to reproduce the insights above
 
