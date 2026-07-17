@@ -1,1 +1,52 @@
+ 📉 Global Tech Layoffs — SQL Data Cleaning & Analysis
 
+A **MySQL** project that cleans a raw global tech layoffs dataset and runs it through descriptive, diagnostic, predictive, and prescriptive analysis to understand who got laid off, when, where, and why.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CTEs%20%7C%20Window%20Functions-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-complete-brightgreen?style=for-the-badge)
+
+ 📌 Overview
+
+This is the SQL companion to the Global Tech Layoffs Power BI dashboard — the data cleaning and analytical groundwork that feeds the visual report. It follows a structured pipeline: explore → deduplicate → standardize → handle nulls → analyze, using a staging-table approach so the raw data is never modified directly.
+
+The schema and cleaned tables are modeled in `layoffs_project_sql.mwb`.
+
+ 🧭 Project Workflow (`layoffs_project.sql`)
+
+1. **Explore** — inspect table structure, preview rows, check for `NULL`s in `total_laid_off`
+2. **Remove duplicates** — identify duplicates with `ROW_NUMBER()` over a full-row partition, copy data into a `layoffs_staging` table with the row-number column, then delete rows where `rn > 1`
+3. **Standardize** — trim whitespace from company/industry/country; unify inconsistent naming (e.g. all `Crypto%` variants → `Crypto`, all `United States%` variants → `United States`)
+4. **Fix data types** — convert the date column from text to a proper `DATE` using `STR_TO_DATE`
+5. **Handle nulls & blanks** — convert blank strings to `NULL`, backfill missing `industry` values from other rows for the same company, label remaining nulls as `'not provided'`, and drop rows with no layoff figures at all
+
+## 📊 Analysis Layers
+
+| Type | Examples |
+|---|---|
+| **Descriptive** | Top 5 companies by total layoffs and by % laid off, companies that laid off 100% of staff, top 10 companies/industries/countries by total layoffs |
+| **Diagnostic** | Layoffs by company stage, Post-IPO layoff trend by year/month, industry breakdown within Post-IPO, funding vs. layoffs, location-level industry impact (e.g. SF Bay Area) |
+| **Predictive** | Rolling monthly total of layoffs, top 5 companies laid off per year (via `DENSE_RANK()`) |
+| **Prescriptive** | Low-funding companies with high layoff %, "safe haven" industries with low average layoff %, companies with repeated layoff rounds, funding efficiency (`funds_raised / total_laid_off`), geographic concentration, surviving companies with strong funding |
+
+🧰 Tools & Skills
+
+- **MySQL** — staging tables, `ROW_NUMBER()` / `DENSE_RANK()` window functions, CTEs, self-joins for null backfilling, string standardization, date parsing
+- **MySQL Workbench** — schema/ERD modeling (`layoffs_project_sql.mwb`)
+
+ 📂 Repository Contents
+
+```
+├── layoffs_project_sql.mwb   # MySQL Workbench model
+├── layoffs_project.sql       # Full cleaning + analysis script
+└── README.md
+```
+
+ ▶️ How to Run
+
+1. Import the raw `layoffs` dataset into MySQL
+2. Run `layoffs_project.sql` top to bottom — it builds `layoffs_staging`, cleans it, and runs all analysis queries in sequence
+3. Review the query results for each analysis section (descriptive → diagnostic → predictive → prescriptive)
+
+
+**Abdelr
