@@ -1,1 +1,53 @@
+# B-Tech Retail Sales & Performance Dashboard
 
+![B-Tech Dashboard Cover](./btech_assets/cover.png)
+
+A Power BI dashboard I built for a retail electronics chain to bring sales, profit, product, customer, store, and employee performance into one place — instead of everyone pulling numbers from different spreadsheets.
+
+## The Problem
+
+Sales Managers, Category Managers, Store Managers, Marketing, and Regional Sales teams were all working off separate reports, which made it hard to get a consistent read on performance. This dashboard gives them one interactive source of truth they can filter and explore themselves.
+
+## Tools Used
+
+- Power BI Desktop for modeling and report design
+- Power Query for cleaning the raw data
+- DAX for all the measures, organized into folders so the model stays maintainable
+
+## Data Model
+
+Built as a star schema from raw CSV exports:
+
+- **Fact table:** `FactSales_2021` — quantity, unit price, discount, sales amount, cost, profit, performance
+- **Dimensions:** `DimDate`, `DimCustomer` (governorate/country), `DimProduct` (category, sub-category, brand), `DimStore` (city, region, store type), `DimEmployee` (department), `DimPromotion`, `GovernorateGeo`, `StoreTargets`
+
+Measures are grouped into display folders: Orders, Profit, Product, Customer, Store, Employee, Promotion, and Geographic.
+
+## What's in the Report
+
+| Page | What it shows |
+|---|---|
+| Entrance Page | Intro/landing screen |
+| Landing Page | Navigation hub to the rest of the report |
+| Overview | Company-wide sales and profit KPIs, YoY trend |
+| Sales Manager | Sales performance by region, category, and time |
+| Profit | Margin and profitability breakdown |
+| Product | Performance by category, sub-category, and brand |
+| Customer | Customer segmentation and behavior |
+| Store | Store performance against yearly targets |
+| Employee | Productivity by employee and department |
+
+## A Few Things That Came Out of the Analysis
+
+- Found which product categories and regions were actually driving profit, not just revenue
+- Flagged stores that were falling short of their yearly targets so it's easy to follow up
+- Tracked sales year-over-year to catch seasonal patterns early
+- Cleaned up formatting across all the pages so numbers read consistently no matter which page you're on
+
+## Preview
+
+![Sales Manager Overview](./btech_assets/sales_manager_overview_screenshot.png)
+
+## About Me
+
+Data Analyst — [GitHub: Abdelrahman-The-Analyst](https://github.com/Abdelrahman-The-Analyst)
