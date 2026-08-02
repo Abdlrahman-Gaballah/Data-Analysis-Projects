@@ -12,7 +12,7 @@ Data Model
 
 Built as a star schema from four source tables:
 
-Fact table: HRData — one row per employee (hiring date, termination date, department, performance score, engagement, satisfaction, recruitment source, gender, state)
+Fact table: HRData  one row per employee (hiring date, termination date, department, performance score, engagement, satisfaction, recruitment source, gender, state)
 Dimension tables: Salaries (1:1 with HRData), Departements (department names and managers), States (state names)
 Date table: DateTable, connected to HiringDate (active) and TerminationDate (inactive relationship, activated with USERELATIONSHIP where needed)
 
