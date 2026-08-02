@@ -1,1 +1,33 @@
+A Power BI dashboard that tracks headcount, attrition, performance, recruitment, and pay across a workforce of 311 employees built to give HR and department managers one place to see what's actually happening, instead of piecing it together from spreadsheets.
 
+The Problem
+
+HR data usually lives in fragments — one sheet for headcount, another for exit dates, another for performance reviews. Nobody gets the full picture, and patterns like "who's actually at risk of leaving" stay invisible until it's too late to act on them. This dashboard pulls all of it into one connected model so those patterns surface on their own.
+
+Tools Used
+Power BI Desktop for modeling and report design
+Power Query for cleaning and shaping the raw data
+DAX for the full measures library, including time intelligence
+Data Model
+
+Built as a star schema from four source tables:
+
+Fact table: HRData — one row per employee (hiring date, termination date, department, performance score, engagement, satisfaction, recruitment source, gender, state)
+Dimension tables: Salaries (1:1 with HRData), Departements (department names and managers), States (state names)
+Date table: DateTable, connected to HiringDate (active) and TerminationDate (inactive relationship, activated with USERELATIONSHIP where needed)
+
+Report Pages
+Page	What it answers
+HR Force Dashboard	Landing page with navigation to every section
+HR Overview	Headcount, gender split, department size, performance mix
+Attrition & Retention	Who's leaving, when, and whether it's voluntary or not
+Performance & Engagement	How engagement tracks with performance, and who's at risk
+Recruitment Insights	Which hiring sources bring in people who actually stay
+Compensation Analysis	Pay by department, gender pay gap, salary vs. performance
+
+Key Insights
+Attrition sits at 33.4% overall, and 61% of departures happen within the first two years the retention problem is concentrated early in tenure, not spread evenly
+Engagement score drops sharply and consistently as performance declines (from 4.48 among top performers to 2.22 among employees on a PIP)
+Employee referrals have the lowest attrition rate of any recruitment source, while Indeed-sourced hires have the highest  a clear signal for where to invest hiring budget
+One department holds two-thirds of total headcount, which pulls the company wide average salary down even though pay elsewhere is competitive
+Gender pay gap sits at 4.02%, well below typical industry benchmarks
