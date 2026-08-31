@@ -1,0 +1,51 @@
+﻿StoreKey,StoreName,City,Region,StoreType
+1,City Stars,Cairo,Greater Cairo,Flagship Store
+2,Mall of Egypt,Giza,Greater Cairo,Flagship Store
+3,Mall of Arabia,Giza,Greater Cairo,Retail Store
+4,Cairo Festival City,New Cairo,Greater Cairo, Flagship Store
+5,Downtown Branch,Cairo,Greater Cairo,Retail Store
+6,New Cairo Branch,New Cairo,Greater Cairo,Retail Store
+7,Maadi Branch,Cairo,Greater Cairo,Retail Store
+8,Nasr City Branch,Cairo,Greater Cairo,Retail Store
+9,Heliopolis Branch,Cairo,Greater Cairo,Retail Store 
+10,Zamalek Branch,Cairo,Greater Cairo,Retail Store
+11,6th of October Branch,6th of October,Greater Cairo,Retail Store
+12,Sheikh Zayed Branch,Giza,Greater Cairo, Retail Store
+13,Alexandria Branch,Alexandria,Alexandria,Flagship Store
+14,San Stefano Mall,Alexandria,Alexandria,Retail Store
+15,Green Plaza Mall,Alexandria,Alexandria,Retail Store
+16,Mansoura Branch,Mansoura,Delta,Retail Store
+17,Tanta Branch,Tanta,Delta,Retail Store
+18,Zagazig Branch,Zagazig,Delta,Retail Store
+19,Port Said Branch,Port Said,Canal,Retail Store
+20,Suez Branch,Suez,Canal,Retail Store
+21,Ismailia Branch,Ismailia,Canal,Retail Store
+22,Luxor Branch,Luxor,Upper Egypt,Retail Store
+23,Aswan Branch,Aswan,Upper Egypt,Retail Store
+24,Assiut Branch,Assiut,Upper Egypt,Retail Store
+25,Riyadh Park,Riyadh,Gulf,Flagship Store
+26,Kingdom Centre,Riyadh,Gulf,Retail Store
+27,Granada Mall,Riyadh,Gulf,Retail Store
+28,Red Sea Mall,Jeddah,Gulf,Flagship Store
+29,Mall of Arabia Jeddah,Jeddah,Gulf,Retail Store
+30,Dhahran Mall,Dammam,Gulf,Retail Store
+31,Dubai Mall,Dubai,Gulf,Flagship Store
+32,Mall of the Emirates,Dubai,Gulf,Flagship Store
+33,Dubai Marina Branch,Dubai,Gulf,Retail Store
+34,Yas Mall,Abu Dhabi,Gulf,Retail Store
+35,Abu Dhabi Mall,Abu Dhabi,Gulf,Retail Store
+36,Sahara Centre,Sharjah,Gulf,Retail Store
+37,Villaggio Mall,Doha,Gulf,Retail Store
+38,The Avenues,Kuwait City,Gulf,Flagship Store
+39,Alexandria Outlet 39,Alexandria,Alexandria,Retail Store
+40,Riyadh Outlet 40,Riyadh,Gulf,Retail Store
+41,Jeddah Outlet 41,Jeddah,Gulf,Retail Store
+42,Dubai Outlet 42,Dubai,Gulf,Retail Store
+43,Cairo Outlet 43,Cairo,Greater Cairo,Retail Store
+44,Giza Outlet 44,Giza,Greater Cairo,Retail Store
+45,Alexandria Outlet 45,Alexandria,Alexandria,Retail Store
+46,Riyadh Outlet 46,Riyadh,Gulf,Retail Store
+47,Jeddah Outlet 47,Jeddah,Gulf,Retail Store
+48,Online Store Egypt,Cairo,Online,Online Store
+49,Online Store Gulf,Dubai,Online,Online Store
+50,Online Store KSA,Riyadh,Online,Online Store

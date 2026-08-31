@@ -1,0 +1,42 @@
+{
+  "name": "B.Tech Dark Orange Dashboard",
+  "dataColors": [
+    "#FF6500",
+    "#35D85A",
+    "#6532D4",
+    "#1688C9",
+    "#1AA89C",
+    "#E5A72B",
+    "#E04B59",
+    "#626473",
+    "#A8A5B5"
+  ],
+  "background": "#060414",
+  "foreground": "#F5F5F7",
+  "tableAccent": "#FF6500",
+  "good": "#35D85A",
+  "neutral": "#A8A5B5",
+  "bad": "#E04B59",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#F5F5F7"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#F5F5F7"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 26,
+      "color": "#F5F5F7"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#A8A5B5"
+    }
+  }
+}

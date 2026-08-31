@@ -1,0 +1,701 @@
+﻿ProductKey,ProductName,Category,SubCategory,Brand
+1,G502 X Blue,Accessories,Mice,Logitech
+2,Galaxy Z Flip 6 1TB,Smartphones,Foldable Phones,SAMSUNG
+3,iPhone 15 256GB,SMARTPHONES,Flagship Phones,apple
+4,Alpha A7 IV Silver,CAMERAS,Mirrorless Cameras,SONY
+5,Apple Watch SE Black,wearables,Smartwatches,apple
+6,Galaxy Watch Ultra Silver,Wearables,Smartwatches,Samsung
+7,Latitude 7450 i5 16GB,LAPTOPS,Business Laptops,Dell
+8,WH-CH720N Black,Audio,Headphones,Sony
+9,Galaxy Watch Ultra Black,wearables,Smartwatches,samsung
+10,Watch S4 Black,wearables,Smartwatches,XIAOMI
+11,Crystal UHD DU8000 65 inch,televisions, LED TVs,Samsung
+12,Omen 16 i7 32GB,Laptops,Gaming Laptops,HP
+13,Latitude 7450 i7 16GB,Laptops,Business Laptops,DELL
+14,OLED C4 48 inch,Televisions,OLED TVs,lg
+15,Gram 16 i9 32GB,Laptops,Ultrabooks,LG
+16,Victus 15 i5 16GB,Laptops,Gaming Laptops,HP
+17,iMac 24 Blue,Desktops,All-in-One,APPLE
+18,Odyssey G9 34 inch,MONITORS,Gaming Monitors,Samsung
+19,14T Pro 512GB,Smartphones,Mid-Range Phones,xiaomi
+20,OLED C4 55 inch,Televisions,OLED TVs,LG
+21,Neo QLED 8K QN900D 55 inch,TELEVISIONS,QLED TVs,Samsung
+22,Inspiron 14 i5 16GB,Laptops,Business Laptops,Dell
+23,Galaxy S24 Ultra 256GB,Smartphones,Flagship Phones,Samsung
+24,ViewFinity S9 34 inch,Monitors,Professional Monitors,SAMSUNG
+25,MacBook Air M4 i5 16GB,laptops,Ultrabooks,Apple
+26,AirPods Max White,AUDIO,Headphones,Apple
+27,Redmi Note 14 1TB,Smartphones,Mid-Range Phones,Xiaomi
+28,TUF Gaming VG27 34 inch,Monitors,Gaming Monitors,ASUS
+29,MacBook Pro 14 i5 16GB,laptops,Business Laptops,Apple
+30,Galaxy Watch 7 Silver,WEARABLES,Smartwatches,Samsung
+31,XPS 15 i7 16GB,laptops,Ultrabooks,Dell
+32,ZV-E10 Blue,Cameras,Compact Cameras,Sony
+33,The Frame 48 inch,TELEVISIONS,QLED TVs,SAMSUNG
+34,UHD UR80 55 inch,Televisions,LED TVs,LG
+35,Spectre x360 16 i5 16GB,Laptops,Ultrabooks ,HP
+36,PlayStation 5,gaming,Consoles,Sony
+37,Mac mini,Desktops,Mini PC,Apple
+38,WF-1000XM5 Silver,AUDIO,Earbuds,Sony
+39,S2722DGM 27 inch,Monitors,Gaming Monitors,DELL
+40,Yoga 9i i7 32GB,Laptops,Ultrabooks,lenovo
+41,Bravia 9 65 inch,TELEVISIONS,LED TVs,Sony
+42,AirPods Max Silver,Audio,Headphones,Apple
+43,Studio Display,Monitors,Professional Monitors,Apple
+44,iPhone 16 Pro Max 512GB,smartphones,Flagship Phones,apple
+45,iPhone 16 Pro 128GB,Smartphones,Flagship Phones,Apple
+46,DualSense Controller Silver,Gaming,Controllers,sony
+47,iPhone 16 Pro 256GB,SMARTPHONES,Flagship Phones,APPLE
+48,Latitude 5540 i9 32GB,laptops,Business Laptops,dell
+49,Redmi Note 14 128GB,Smartphones,Mid-Range Phones,Xiaomi
+50,ROG Strix G16 i5 16GB,Laptops,Gaming Laptops,asus
+51,PowerShot G7 X Mark III Silver,Cameras,Compact Cameras,canon
+52,The Frame 77 inch,televisions,QLED TVs,Samsung
+53,Latitude 5540 i7 32GB,LAPTOPS,Business Laptops,dell
+54,iPhone 16 128GB,smartphones,Flagship Phones,Apple
+55,iPhone 14 512GB,Smartphones, Mid-Range Phones,Apple
+56,Gram 17 i5 16GB,laptops,Ultrabooks,LG
+57,E24 Monitor 34 inch,monitors,Professional Monitors,HP
+58,iPad Air 11 512GB Cellular,Tablets,Mid-Range Tablets ,Apple
+59,MacBook Air M3 i7 16GB,Laptops,Ultrabooks,Apple
+60,OLED C5 77 inch,televisions,OLED TVs,LG
+61,AirPods Pro 2 Blue,audio,Earbuds,Apple
+62,iPhone 16 Pro 1TB,Smartphones,Flagship Phones,Apple
+63,K380 Blue,Accessories,Keyboards,Logitech
+64,VivoBook 15 i9 32GB,Laptops,Business Laptops,asus
+65,Galaxy Tab S10 Ultra 256GB WiFi,TABLETS,Premium Tablets,samsung
+66,Galaxy Tab S10 128GB WiFi,Tablets,Mid-Range Tablets,SAMSUNG
+67,EOS R50 Silver,cameras,Mirrorless Cameras,Canon
+68,EOS R50 Blue,CAMERAS,Mirrorless Cameras,canon
+69,iPad Pro 13 256GB Cellular,Tablets,Premium Tablets,Apple
+70,ThinkPad X1 Carbon i7 32GB,Laptops,Business Laptops,Lenovo
+71,G502 X White,Accessories,Mice,Logitech
+72,IdeaPad Slim 3 i7 32GB,Laptops,Business Laptops,Lenovo
+73,Alpha A7 IV White,CAMERAS,Mirrorless Cameras,Sony
+74,VivoBook 15 i5 16GB,Laptops,Business Laptops,asus
+75,Gram 17 i7 32GB,Laptops,Ultrabooks,LG
+76,Bravia XR A95L OLED 65 inch,Televisions,OLED TVs,Sony
+77,WH-1000XM5 Silver,Audio,Headphones,Sony
+78,Alienware m18 i7 32GB,LAPTOPS,Gaming Laptops,Dell
+79,K380 White,Accessories,Keyboards,Logitech
+80,AirPods Pro 2 Silver,Audio,Earbuds,apple
+81,Victus 15 i7 16GB,Laptops,Gaming Laptops,HP
+82,iPhone 14 1TB,Smartphones,Mid-Range Phones,Apple
+83,Galaxy Tab A9 128GB WiFi,tablets,Entry Tablets,SAMSUNG
+84,G Pro X Superlight 2 White,Accessories,Mice,Logitech
+85,iPhone 15 Pro Max 1TB,Smartphones,Flagship Phones,APPLE
+86,Legion 5 i7 32GB,Laptops,Gaming Laptops,Lenovo
+87,Galaxy Z Fold 6 512GB,Smartphones,Foldable Phones ,Samsung
+88,Galaxy S24 512GB,smartphones,Flagship Phones,SAMSUNG
+89,Galaxy S25 Plus 128GB,Smartphones,Flagship Phones,Samsung
+90,Galaxy Tab S10 Ultra 512GB Cellular,tablets,Premium Tablets,Samsung
+91,Galaxy S25 Plus 512GB,Smartphones,Flagship Phones,Samsung
+92,Pavilion Aero 13 i5 16GB,laptops,Ultrabooks,HP
+93,MX Master 3S Blue,Accessories,Mice,Logitech
+94,UltraWide 34WP 32 inch,Monitors,Professional Monitors,LG
+95,Aspire 5 i7 32GB,Laptops,Business Laptops,Acer
+96,Galaxy Buds 3 Pro Blue,Audio,Earbuds,SAMSUNG
+97,Alienware x16 i9 32GB,LAPTOPS,Gaming Laptops,DELL
+98,iPhone 16 Plus 1TB,SMARTPHONES,Flagship Phones,Apple
+99,WH-1000XM5 White,audio,Headphones,Sony
+100,ROG Swift PG27 32 inch,Monitors,Gaming Monitors,ASUS
+101,Predator Helios 16 i9 32GB,LAPTOPS,Gaming Laptops,acer
+102,ThinkPad X1 Yoga i9 32GB,LAPTOPS,Business Laptops,Lenovo
+103,MX Anywhere 3S Silver,Accessories,Mice,Logitech
+104,iPad 10th Gen 256GB Cellular,Tablets,Entry Tablets,Apple
+105,iPad Pro 13 512GB Cellular,TABLETS,Premium Tablets,apple
+106,iPhone 16 Pro 512GB,Smartphones,Flagship Phones,Apple
+107,Pad 6 256GB WiFi,tablets, Mid-Range Tablets,Xiaomi
+108,MX Anywhere 3S Black,accessories,Mice,LOGITECH
+109,Nitro 5 i5 16GB,LAPTOPS,Gaming Laptops,Acer
+110,Apple Watch SE Silver,WEARABLES,Smartwatches,APPLE
+111,Omen 16 i9 32GB,Laptops, Gaming Laptops,HP
+112,UHD UR80 65 inch,Televisions,LED TVs,lg
+113,MX Keys S Silver,Accessories,Keyboards,logitech
+114,IdeaPad 5 i5 16GB,laptops,Business Laptops,Lenovo
+115,AirPods Pro 2 Black,audio,Earbuds,apple
+116,Legion 5 i7 16GB,laptops,Gaming Laptops,LENOVO
+117,Alpha A7C II Blue,Cameras,Mirrorless Cameras,sony
+118,UltraWide 34WP 27 inch,Monitors,Professional Monitors,lg
+119,Gram 17 i9 32GB,laptops, Ultrabooks,LG
+120,Galaxy A56 128GB,Smartphones,Mid-Range Phones,Samsung
+121,Galaxy Watch 7 White,Wearables,Smartwatches,SAMSUNG
+122,Smart Band 9 Silver,WEARABLES,Fitness Bands,XIAOMI
+123,Galaxy S24 1TB,Smartphones,Flagship Phones,SAMSUNG
+124,Bravia 9 55 inch,TELEVISIONS,LED TVs,Sony
+125,Legion Pro 5 i7 32GB,Laptops,Gaming Laptops ,Lenovo
+126,14 Ultra 128GB,Smartphones,Flagship Phones,Xiaomi
+127,Redmi Note 14 Pro 512GB,Smartphones,Mid-Range Phones,Xiaomi
+128,G15 Gaming i9 32GB,Laptops,Gaming Laptops,DELL
+129,iPad 10th Gen 128GB WiFi,tablets,Entry Tablets,Apple
+130,XPS 15 i7 32GB,Laptops,Ultrabooks,Dell
+131,UltraSharp U2723QE 34 inch,Monitors,Professional Monitors,Dell
+132,EOS R100 Black,Cameras,Compact Cameras,CANON
+133,Inspiron 14 i7 16GB,laptops,Business Laptops,Dell
+134,MacBook Air M3 i5 16GB,laptops,Ultrabooks,apple
+135,Bravia 9 77 inch,televisions,LED TVs,Sony
+136,EOS R5 White,Cameras,Mirrorless Cameras,canon
+137,iPhone 16 Plus 256GB,Smartphones,Flagship Phones,Apple
+138,ZenBook 14 OLED i5 16GB,LAPTOPS,Ultrabooks,ASUS
+139,Predator Triton 14 i5 16GB,Laptops,Gaming Laptops,ACER
+140,Galaxy A16 512GB,SMARTPHONES,Budget Phones,Samsung
+141,RF 50mm F1.8,Cameras,Lenses,Canon
+142,iPhone SE 256GB,SMARTPHONES,Mid-Range Phones ,APPLE
+143,WH-1000XM6 Black,audio,Headphones,Sony
+144,Legion Pro 5 i7 16GB,Laptops,Gaming Laptops,LENOVO
+145,Buds 5 Black,Audio,Earbuds,xiaomi
+146,XPS 13 i7 16GB,laptops,Ultrabooks,Dell
+147,Nitro XV272 27 inch,Monitors,Gaming Monitors,acer
+148,ProArt Studiobook i7 16GB,Laptops,Business Laptops,asus
+149,XPS 17 i7 16GB,LAPTOPS,Ultrabooks,Dell
+150,MX Mechanical White,accessories,Keyboards,Logitech
+151,LOQ 15 i5 16GB,Laptops,Gaming Laptops,lenovo
+152,Galaxy Watch Ultra White,wearables,Smartwatches,samsung
+153,Galaxy A36 128GB,Smartphones,Mid-Range Phones,Samsung
+154,TUF Gaming A15 i9 32GB,Laptops,Gaming Laptops,asus
+155,OLED C5 65 inch,TELEVISIONS,OLED TVs,LG
+156,14T Pro 128GB,SMARTPHONES, Mid-Range Phones,xiaomi
+157,Redmi Note 14 256GB,Smartphones,Mid-Range Phones,Xiaomi
+158,Galaxy A36 256GB,Smartphones,Mid-Range Phones,Samsung
+159,ThinkPad T14 i5 16GB,LAPTOPS,Business Laptops,Lenovo
+160,iPhone SE 1TB,Smartphones,Mid-Range Phones,Apple
+161,MacBook Air M4 i7 16GB,laptops,Ultrabooks,Apple
+162,XPS 17 i7 32GB,Laptops,Ultrabooks,dell
+163,iPhone 15 512GB,Smartphones,Flagship Phones,apple
+164,Galaxy S24 256GB,Smartphones,Flagship Phones,Samsung
+165,Pavilion 15 i9 32GB,Laptops,Business Laptops,HP
+166,Galaxy Z Fold 6 1TB,Smartphones,Foldable Phones,Samsung
+167,UltraSharp U2723QE 27 inch,monitors,Professional Monitors,dell
+168,Inspiron 15 i7 32GB,laptops,Business Laptops,Dell
+169,E24 Monitor 32 inch,monitors,Professional Monitors,HP
+170,ROG Swift PG27 27 inch,monitors,Gaming Monitors,ASUS
+171,EOS R100 White,Cameras,Compact Cameras,canon
+172,RF 24-105mm F4,Cameras,Lenses,Canon
+173,Spectre x360 14 i5 16GB,Laptops,Ultrabooks,HP
+174,Galaxy Tab S10 512GB Cellular,Tablets,Mid-Range Tablets,samsung
+175,MX Keys S Blue,Accessories,Keyboards,Logitech
+176,MX Keys S White,Accessories,Keyboards,Logitech
+177,ROG Zephyrus G14 i7 16GB,LAPTOPS,Gaming Laptops,ASUS
+178,Galaxy S25 Ultra 512GB,Smartphones,Flagship Phones,SAMSUNG
+179,Galaxy S25 Ultra 256GB,SMARTPHONES,Flagship Phones,samsung
+180,iMac 24 Black,DESKTOPS,All-in-One,Apple
+181,Alpha A7C II Silver,Cameras,Mirrorless Cameras,SONY
+182,Galaxy Z Fold 6 256GB,Smartphones,Foldable Phones,samsung
+183,EliteBook 840 i7 16GB,Laptops,Business Laptops,HP
+184,Victus 15 i9 32GB,laptops,Gaming Laptops,hp
+185,Apple Watch Series 10 White,Wearables,Smartwatches,APPLE
+186,Swift Go 14 i7 32GB,Laptops,Ultrabooks,Acer
+187,Apple Watch Series 10 Black,Wearables,Smartwatches,APPLE
+188,Redmi Note 14 512GB,Smartphones,Mid-Range Phones,XIAOMI
+189,Spectre x360 16 i9 32GB,Laptops,Ultrabooks,HP
+190,iPad mini 512GB Cellular,Tablets,Compact Tablets,apple
+191,Pavilion 15 i5 16GB,Laptops,Business Laptops,HP
+192,Buds 5 Silver,Audio,Earbuds,XIAOMI
+193,Galaxy Tab S10 256GB Cellular,TABLETS,Mid-Range Tablets,Samsung
+194,Galaxy A56 1TB,Smartphones,Mid-Range Phones,Samsung
+195,K380 Black,accessories,Keyboards,Logitech
+196,Neo QLED 8K QN900D 48 inch,TELEVISIONS,QLED TVs,SAMSUNG
+197,Legion 5 i5 16GB,LAPTOPS,Gaming Laptops,lenovo
+198,Galaxy Buds 3 Pro White,audio,Earbuds,Samsung
+199,Buds 5 White,Audio,Earbuds,XIAOMI
+200,Apple Watch SE Blue,Wearables,Smartwatches,Apple
+201,UltraGear 27GP 27 inch,Monitors,Gaming Monitors,LG
+202,XPS 17 i5 16GB,LAPTOPS,Ultrabooks,Dell
+203,Swift Go 14 i9 32GB,Laptops,Ultrabooks,ACER
+204,Galaxy Buds 3 Pro Black,Audio,Earbuds,samsung
+205,iPad 10th Gen 256GB WiFi,tablets,Entry Tablets,APPLE
+206,Neo QLED 8K QN900D 77 inch,Televisions,QLED TVs,samsung
+207,Bravia XR A95L OLED 48 inch,Televisions,OLED TVs,Sony
+208,MacBook Pro 14 i7 16GB,Laptops,Business Laptops,apple
+209,14 1TB,smartphones,Flagship Phones ,Xiaomi
+210,ZenBook Duo i7 32GB,Laptops,Ultrabooks,ASUS
+211,ThinkPad T14 i7 32GB,Laptops, Business Laptops,LENOVO
+212,iPhone 14 128GB,smartphones,Mid-Range Phones,apple
+213,Galaxy Z Flip 6 512GB,Smartphones,Foldable Phones,samsung
+214,14T Pro 256GB,Smartphones,Mid-Range Phones,Xiaomi
+215,Pavilion 15 i7 32GB,Laptops,Business Laptops,HP
+216,MX Mechanical Blue,accessories,Keyboards,Logitech
+217,G15 Gaming i7 32GB,Laptops,Gaming Laptops,Dell
+218,K380 Silver,Accessories,Keyboards,Logitech
+219,Galaxy Z Flip 6 128GB,SMARTPHONES,Foldable Phones,Samsung
+220,Smart Band 9 Black,Wearables,Fitness Bands,Xiaomi
+221,Galaxy S25 Ultra 1TB,Smartphones,Flagship Phones,SAMSUNG
+222,Galaxy S25 Ultra 128GB,smartphones,Flagship Phones,Samsung
+223,Galaxy Buds 3 Blue,AUDIO, Earbuds,samsung
+224,EOS R50 White,Cameras,Mirrorless Cameras,CANON
+225,Crystal UHD DU8000 48 inch,Televisions,LED TVs,SAMSUNG
+226,EOS R5 Silver,cameras,Mirrorless Cameras,canon
+227,E24 Monitor 27 inch,Monitors,Professional Monitors,hp
+228,iPhone 16 Pro Max 128GB,SMARTPHONES,Flagship Phones,apple
+229,Spectre x360 14 i7 16GB,Laptops,Ultrabooks,HP
+230,Crystal UHD DU8000 77 inch,Televisions,LED TVs,SAMSUNG
+231,IdeaPad Slim 3 i7 16GB,Laptops, Business Laptops,lenovo
+232,Alienware m18 i9 32GB,laptops,Gaming Laptops ,DELL
+233,iPhone SE 128GB,Smartphones,Mid-Range Phones,Apple
+234,Watch S4 White,wearables,Smartwatches,xiaomi
+235,Pad 6 256GB Cellular,tablets,Mid-Range Tablets,Xiaomi
+236,Nitro XV272 34 inch,Monitors,Gaming Monitors,Acer
+237,MX Master 3S White,ACCESSORIES,Mice ,Logitech
+238,Galaxy A16 1TB,Smartphones,Budget Phones,samsung
+239,ThinkPad X1 Yoga i7 32GB,laptops,Business Laptops,Lenovo
+240,Swift Go 14 i7 16GB,LAPTOPS,Ultrabooks,Acer
+241,ThinkPad X1 Carbon i5 16GB,Laptops,Business Laptops,Lenovo
+242,Galaxy S24 Ultra 512GB,Smartphones,Flagship Phones ,samsung
+243,MacBook Air M3 i9 32GB,laptops,Ultrabooks,apple
+244,MacBook Air M3 i7 32GB,Laptops,Ultrabooks,apple
+245,EOS R50 Black,cameras,Mirrorless Cameras,canon
+246,Redmi 14C 1TB,SMARTPHONES,Budget Phones,Xiaomi
+247,QLED Q80D 65 inch,Televisions,QLED TVs,Samsung
+248,ROG Zephyrus G14 i5 16GB,Laptops,Gaming Laptops,ASUS
+249,Redmi 14C 256GB,SMARTPHONES,Budget Phones,Xiaomi
+250,EOS R8 Silver,cameras,Mirrorless Cameras,Canon
+251,Alpha A7C II White,Cameras,Mirrorless Cameras,Sony
+252,Alpha A7 IV Blue,Cameras,Mirrorless Cameras,Sony
+253,LOQ 15 i7 32GB,Laptops,Gaming Laptops,LENOVO
+254,Predator Helios 16 i5 16GB,laptops,Gaming Laptops,acer
+255,ROG Zephyrus G14 i7 32GB,LAPTOPS,Gaming Laptops,ASUS
+256,14 512GB,Smartphones,Flagship Phones,xiaomi
+257,Spectre x360 16 i7 16GB,Laptops,Ultrabooks,HP
+258,DualSense Controller Blue,GAMING, Controllers,SONY
+259,EOS R6 Mark II White,cameras,Mirrorless Cameras,Canon
+260,14 Ultra 256GB,smartphones,Flagship Phones,Xiaomi
+261,Galaxy S24 Ultra 1TB,smartphones,Flagship Phones,samsung
+262,14 128GB,smartphones,Flagship Phones,XIAOMI
+263,Redmi Note 14 Pro 128GB,Smartphones,Mid-Range Phones,Xiaomi
+264,Bravia XR A95L OLED 77 inch,Televisions,OLED TVs,Sony
+265,Crystal UHD DU8000 55 inch,TELEVISIONS,LED TVs,Samsung
+266,14 256GB,Smartphones,Flagship Phones,Xiaomi
+267,Inspiron 15 i9 32GB,Laptops,Business Laptops,Dell
+268,The Frame 55 inch,Televisions,QLED TVs,Samsung
+269,UHD UR80 48 inch,Televisions,LED TVs,lg
+270,Poco X7 Pro 512GB,Smartphones,Mid-Range Phones,Xiaomi
+271,AirPods 4 Blue,AUDIO,Earbuds,Apple
+272,Apple Watch Series 10 Blue,wearables,Smartwatches,Apple
+273,ZenBook Duo i7 16GB,laptops,Ultrabooks,asus
+274,Galaxy S25 Plus 1TB,Smartphones,Flagship Phones,Samsung
+275,iPhone 15 Pro 512GB,Smartphones,Flagship Phones,apple
+276,WH-1000XM5 Blue,Audio,Headphones,Sony
+277,Galaxy Buds 3 White,Audio,Earbuds,Samsung
+278,Inspiron 15 i5 16GB,Laptops,Business Laptops,Dell
+279,Inspiron 14 i7 32GB,Laptops,Business Laptops,dell
+280,Envy 15 i5 16GB,laptops,Business Laptops,HP
+281,Yoga 9i i5 16GB,Laptops,Ultrabooks,lenovo
+282,MX Mechanical Silver,ACCESSORIES,Keyboards,LOGITECH
+283,iMac 24 Silver,desktops,All-in-One,APPLE
+284,AirPods 4 White,audio,Earbuds,Apple
+285,PowerShot G7 X Mark III White,cameras,Compact Cameras,Canon
+286,Galaxy Watch 7 Black,Wearables,Smartwatches,Samsung
+287,Inspiron 14 i9 32GB,Laptops,Business Laptops,Dell
+288,MX Mechanical Black,Accessories,Keyboards,Logitech
+289,MX Keys S Black,Accessories,Keyboards,Logitech
+290,AirPods 4 Black,Audio,Earbuds,apple
+291,MacBook Pro 16 i9 32GB,LAPTOPS,Business Laptops ,APPLE
+292,Pavilion Aero 13 i7 16GB,LAPTOPS,Ultrabooks,hp
+293,Nitro 5 i9 32GB,laptops,Gaming Laptops,Acer
+294,Galaxy A56 256GB,smartphones,Mid-Range Phones,Samsung
+295,Bravia XR A95L OLED 55 inch,Televisions,OLED TVs,Sony
+296,Alpha A7 IV Black,CAMERAS,Mirrorless Cameras,SONY
+297,QNED 90 77 inch,Televisions,LED TVs,LG
+298,EliteBook 840 i9 32GB,Laptops,Business Laptops,HP
+299,ThinkPad X1 Yoga i5 16GB,LAPTOPS,Business Laptops,LENOVO
+300,S2722DGM 34 inch,monitors,Gaming Monitors,dell
+301,ZenBook 14 OLED i9 32GB,Laptops,Ultrabooks,asus
+302,AirPods 4 Silver,AUDIO,Earbuds,Apple
+303,Galaxy A36 1TB,SMARTPHONES,Mid-Range Phones,Samsung
+304,Chromebook Spin 514 i7 32GB,Laptops,Ultrabooks,Acer
+305,iPhone 15 Pro 1TB,smartphones,Flagship Phones,apple
+306,ROG Swift PG27 34 inch,monitors,Gaming Monitors,ASUS
+307,MacBook Air M4 i7 32GB,laptops,Ultrabooks,Apple
+308,iPhone 16 256GB,SMARTPHONES,Flagship Phones,apple
+309,WH-1000XM6 Silver,Audio,Headphones,Sony
+310,Galaxy Tab A9 256GB WiFi,tablets,Entry Tablets,Samsung
+311,Nitro 5 i7 16GB,LAPTOPS,Gaming Laptops,Acer
+312,WH-CH720N White,Audio,Headphones,Sony
+313,WH-1000XM6 Blue,audio,Headphones ,sony
+314,Galaxy S25 128GB,Smartphones,Flagship Phones,samsung
+315,QLED Q80D 48 inch,televisions,QLED TVs,SAMSUNG
+316,ZV-E10 White,Cameras,Compact Cameras,sony
+317,MacBook Pro 16 i7 32GB,Laptops,Business Laptops,Apple
+318,UltraSharp U2723QE 32 inch,Monitors,Professional Monitors,dell
+319,G15 Gaming i7 16GB,laptops,Gaming Laptops,dell
+320,Galaxy Tab S10 256GB WiFi,TABLETS, Mid-Range Tablets,Samsung
+321,Alpha A7C II Black,Cameras,Mirrorless Cameras,Sony
+322,Chromebook Spin 514 i5 16GB,Laptops,Ultrabooks,Acer
+323,Aspire 5 i9 32GB,Laptops,Business Laptops,Acer
+324,Smart Band 9 Blue,WEARABLES,Fitness Bands,Xiaomi
+325,MacBook Pro 14 i7 32GB,Laptops,Business Laptops,Apple
+326,OLED C5 55 inch,Televisions,OLED TVs,lg
+327,ZV-E10 Silver,Cameras,Compact Cameras,Sony
+328,iPad Pro 13 128GB WiFi,Tablets,Premium Tablets,Apple
+329,WF-1000XM5 White,AUDIO,Earbuds,Sony
+330,OLED G4 48 inch,televisions,OLED TVs,LG
+331,Gram 16 i7 32GB,Laptops,Ultrabooks,LG
+332,Galaxy Buds 3 Black,audio,Earbuds ,Samsung
+333,PowerShot G7 X Mark III Black,Cameras,Compact Cameras,CANON
+334,Buds 5 Blue,AUDIO,Earbuds,XIAOMI
+335,OLED C5 48 inch,Televisions,OLED TVs,lg
+336,MacBook Pro 16 i7 16GB,laptops,Business Laptops,Apple
+337,WF-1000XM5 Black,Audio,Earbuds,Sony
+338,Pavilion Aero 13 i7 32GB,Laptops,Ultrabooks,HP
+339,ThinkPad T14 i9 32GB,Laptops,Business Laptops,lenovo
+340,iPhone SE 512GB,smartphones,Mid-Range Phones,Apple
+341,EOS R6 Mark II Black,Cameras, Mirrorless Cameras,Canon
+342,QLED Q80D 55 inch,Televisions,QLED TVs,SAMSUNG
+343,Yoga 9i i9 32GB,laptops, Ultrabooks,lenovo
+344,Redmi 14C 128GB,smartphones,Budget Phones,xiaomi
+345,Swift Go 14 i5 16GB,laptops,Ultrabooks,ACER
+346,TUF Gaming VG27 32 inch,Monitors,Gaming Monitors,ASUS
+347,ViewFinity S9 27 inch,Monitors,Professional Monitors,Samsung
+348,IdeaPad 5 i7 16GB,laptops,Business Laptops,lenovo
+349,Pavilion Aero 13 i9 32GB,laptops,Ultrabooks,HP
+350,Predator Triton 14 i9 32GB,Laptops,Gaming Laptops,Acer
+351,EOS R8 White,Cameras,Mirrorless Cameras,Canon
+352,Yoga 9i i7 16GB,LAPTOPS,Ultrabooks,Lenovo
+353,MacBook Pro 16 i5 16GB,LAPTOPS,Business Laptops,APPLE
+354,iMac 24 White,desktops,All-in-One,Apple
+355,MX Master 3S Black,ACCESSORIES, Mice,logitech
+356,EOS R6 Mark II Blue,CAMERAS,Mirrorless Cameras,Canon
+357,ZenBook 14 OLED i7 16GB,laptops,Ultrabooks,asus
+358,MacBook Air M4 i9 32GB,Laptops,Ultrabooks,apple
+359,Legion Pro 5 i9 32GB,laptops,Gaming Laptops,Lenovo
+360,XPS 13 i5 16GB,Laptops,Ultrabooks,Dell
+361,Omen 16 i5 16GB,Laptops,Gaming Laptops,HP
+362,QNED 90 48 inch,Televisions,LED TVs,LG
+363,Legion 5 i9 32GB,laptops,Gaming Laptops,LENOVO
+364,TUF Gaming A15 i5 16GB,LAPTOPS,Gaming Laptops,ASUS
+365,Galaxy Buds 3 Silver,Audio,Earbuds,Samsung
+366,Galaxy A16 128GB,SMARTPHONES,Budget Phones,SAMSUNG
+367,Latitude 7450 i9 32GB,LAPTOPS,Business Laptops,Dell
+368,DualSense Controller White,Gaming,Controllers,sony
+369,OLED C4 77 inch,Televisions,OLED TVs,LG
+370,14 Ultra 1TB,Smartphones,Flagship Phones,xiaomi
+371,iPhone 14 256GB,Smartphones,Mid-Range Phones,Apple
+372,G502 X Silver,Accessories,Mice,LOGITECH
+373,iPad Air 11 256GB WiFi,Tablets,Mid-Range Tablets,Apple
+374,WH-CH720N Silver,Audio,Headphones,sony
+375,EOS R6 Mark II Silver,Cameras,Mirrorless Cameras,canon
+376,Brio 4K,Accessories,Webcams,LOGITECH
+377,Apple Watch Series 10 Silver,Wearables,Smartwatches,Apple
+378,Omen 16 i7 16GB,Laptops,Gaming Laptops,hp
+379,14 Ultra 512GB,Smartphones,Flagship Phones,xiaomi
+380,AirPods Max Blue,audio,Headphones,Apple
+381,XPS 13 i7 32GB,LAPTOPS,Ultrabooks,Dell
+382,ZenBook Duo i9 32GB,laptops,Ultrabooks,ASUS
+383,PlayStation 5 Pro,Gaming,Consoles,Sony
+384,MX Anywhere 3S Blue,ACCESSORIES,Mice,Logitech
+385,Alienware m18 i7 16GB,LAPTOPS,Gaming Laptops,Dell
+386,Nitro 5 i7 32GB,LAPTOPS,Gaming Laptops,ACER
+387,EOS R8 Black,Cameras,Mirrorless Cameras,canon
+388,XPS 15 i9 32GB,Laptops,Ultrabooks,Dell
+389,LOQ 15 i7 16GB,LAPTOPS,Gaming Laptops,Lenovo
+390,iPhone 16 Plus 512GB,Smartphones,Flagship Phones,Apple
+391,iPhone 15 Pro Max 512GB,smartphones,Flagship Phones,APPLE
+392,Poco X7 Pro 128GB,smartphones,Mid-Range Phones,Xiaomi
+393,Odyssey G9 32 inch,MONITORS,Gaming Monitors,samsung
+394,XPS 15 i5 16GB,Laptops, Ultrabooks,Dell
+395,OLED G4 65 inch,Televisions,OLED TVs,LG
+396,Apple Watch Ultra 2 Black,wearables,Smartwatches,Apple
+397,Latitude 7450 i7 32GB,Laptops,Business Laptops,dell
+398,ROG Strix G16 i7 32GB,Laptops,Gaming Laptops,ASUS
+399,Latitude 5540 i5 16GB,Laptops,Business Laptops,dell
+400,Galaxy S24 Ultra 128GB,Smartphones,Flagship Phones,SAMSUNG
+401,The Frame 65 inch,televisions,QLED TVs,Samsung
+402,WF-1000XM5 Blue,Audio,Earbuds,Sony
+403,TUF Gaming A15 i7 32GB,laptops,Gaming Laptops ,ASUS
+404,EOS R5 Black,Cameras,Mirrorless Cameras,Canon
+405,AirPods Pro 2 White,Audio,Earbuds,Apple
+406,iPhone 16 1TB,smartphones,Flagship Phones,Apple
+407,iPad 10th Gen 512GB Cellular,Tablets,Entry Tablets,apple
+408,Apple Watch Ultra 2 Silver,WEARABLES,Smartwatches,apple
+409,ViewFinity S9 32 inch,Monitors,Professional Monitors,samsung
+410,Apple Watch SE White,wearables,Smartwatches,apple
+411,ProArt Studiobook i5 16GB,laptops,Business Laptops,ASUS
+412,OLED C4 65 inch,Televisions,OLED TVs,lg
+413,Alienware x16 i5 16GB,Laptops,Gaming Laptops,dell
+414,Neo QLED 8K QN900D 65 inch,Televisions,QLED TVs,Samsung
+415,Predator Helios 16 i7 16GB,LAPTOPS,Gaming Laptops,Acer
+416,Galaxy Buds 3 Pro Silver,Audio,Earbuds,Samsung
+417,EliteBook 840 i7 32GB,laptops,Business Laptops,hp
+418,OLED G4 77 inch,Televisions,OLED TVs,lg
+419,Envy 15 i7 16GB,Laptops,Business Laptops,HP
+420,Spectre x360 14 i9 32GB,LAPTOPS,Ultrabooks,hp
+421,Galaxy Z Fold 6 128GB,SMARTPHONES,Foldable Phones,Samsung
+422,QNED 90 65 inch,TELEVISIONS,LED TVs,LG
+423,PlayStation 5 Slim,Gaming,Consoles,sony
+424,ProArt Studiobook i9 32GB,Laptops,Business Laptops,ASUS
+425,ROG Zephyrus G14 i9 32GB,Laptops,Gaming Laptops,ASUS
+426,Galaxy Tab S10 Ultra 128GB WiFi,TABLETS,Premium Tablets,samsung
+427,Spectre x360 14 i7 32GB,Laptops,Ultrabooks,hp
+428,MX Anywhere 3S White,ACCESSORIES,Mice,LOGITECH
+429,WH-1000XM6 White,audio,Headphones ,sony
+430,Envy 15 i7 32GB,laptops,Business Laptops,HP
+431,ROG Strix G16 i9 32GB,Laptops,Gaming Laptops,ASUS
+432,XPS 13 i9 32GB,LAPTOPS, Ultrabooks,DELL
+433,Spectre x360 16 i7 32GB,LAPTOPS,Ultrabooks,HP
+434,IdeaPad Slim 3 i9 32GB,Laptops,Business Laptops,Lenovo
+435,Galaxy S25 Plus 256GB,Smartphones,Flagship Phones,samsung
+436,Poco X7 Pro 1TB,smartphones,Mid-Range Phones,XIAOMI
+437,ThinkPad X1 Yoga i7 16GB,Laptops,Business Laptops,Lenovo
+438,DualSense Controller Black,Gaming,Controllers,Sony
+439,iPhone 15 128GB,Smartphones, Flagship Phones,apple
+440,Galaxy S24 128GB,smartphones,Flagship Phones,SAMSUNG
+441,Galaxy S25 256GB,smartphones,Flagship Phones,samsung
+442,Gram 16 i7 16GB,Laptops,Ultrabooks,LG
+443,iPad mini 256GB WiFi,tablets,Compact Tablets,Apple
+444,Aspire 5 i5 16GB,Laptops,Business Laptops,Acer
+445,ZenBook 14 OLED i7 32GB,LAPTOPS,Ultrabooks,ASUS
+446,Galaxy A16 256GB,Smartphones,Budget Phones,Samsung
+447,iPhone 16 Pro Max 1TB,smartphones,Flagship Phones,apple
+448,EOS R100 Silver,cameras,Compact Cameras,Canon
+449,Nitro XV272 32 inch,monitors,Gaming Monitors,ACER
+450,EliteBook 840 i5 16GB,Laptops,Business Laptops ,HP
+451,AirPods Max Black,audio,Headphones,apple
+452,iPhone 16 Pro Max 256GB,Smartphones,Flagship Phones,Apple
+453,S2722DGM 32 inch,Monitors,Gaming Monitors,dell
+454,EOS R8 Blue,Cameras,Mirrorless Cameras,Canon
+455,Galaxy A36 512GB,SMARTPHONES,Mid-Range Phones,samsung
+456,ThinkPad T14 i7 16GB,laptops,Business Laptops,lenovo
+457,Pad 6 512GB Cellular,Tablets, Mid-Range Tablets,XIAOMI
+458,Alienware m18 i5 16GB,Laptops,Gaming Laptops,dell
+459,OLED G4 55 inch,Televisions,OLED TVs,lg
+460,Galaxy Watch Ultra Blue,WEARABLES,Smartwatches,Samsung
+461,TUF Gaming VG27 27 inch,Monitors, Gaming Monitors,ASUS
+462,ThinkPad X1 Carbon i9 32GB,Laptops,Business Laptops,Lenovo
+463,Poco X7 Pro 256GB,Smartphones,Mid-Range Phones,XIAOMI
+464,Alienware x16 i7 32GB,laptops,Gaming Laptops,Dell
+465,G Pro X Superlight 2 Silver,Accessories,Mice,LOGITECH
+466,ProArt Studiobook i7 32GB,Laptops,Business Laptops,ASUS
+467,IdeaPad 5 i9 32GB,Laptops,Business Laptops,lenovo
+468,G Pro X Superlight 2 Blue,accessories,Mice,LOGITECH
+469,TUF Gaming A15 i7 16GB,Laptops,Gaming Laptops,ASUS
+470,iPad mini 256GB Cellular,Tablets,Compact Tablets,Apple
+471,Smart Band 9 White,Wearables,Fitness Bands,Xiaomi
+472,Chromebook Spin 514 i7 16GB,Laptops,Ultrabooks,acer
+473,EOS R100 Blue,cameras,Compact Cameras,CANON
+474,ZV-E10 Black,Cameras,Compact Cameras ,sony
+475,PowerShot G7 X Mark III Blue,cameras,Compact Cameras,canon
+476,iPhone 16 512GB,smartphones,Flagship Phones,Apple
+477,iPad mini 128GB WiFi,Tablets,Compact Tablets,apple
+478,QNED 90 55 inch,Televisions,LED TVs,LG
+479,Envy 15 i9 32GB,Laptops,Business Laptops,HP
+480,UHD UR80 77 inch,Televisions,LED TVs,LG
+481,iPad Pro 13 256GB WiFi,Tablets,Premium Tablets,apple
+482,Bravia 9 48 inch,televisions,LED TVs,Sony
+483,Galaxy S25 512GB,SMARTPHONES,Flagship Phones,SAMSUNG
+484,Alienware x16 i7 16GB,Laptops,Gaming Laptops,DELL
+485,iPad Air 11 128GB WiFi,Tablets,Mid-Range Tablets,Apple
+486,IdeaPad 5 i7 32GB,Laptops,Business Laptops,lenovo
+487,C920 Webcam,Accessories,Webcams,logitech
+488,LOQ 15 i9 32GB,LAPTOPS,Gaming Laptops,LENOVO
+489,QLED Q80D 77 inch,televisions,QLED TVs,samsung
+490,Apple Watch Ultra 2 White,WEARABLES,Smartwatches,Apple
+491,Galaxy S25 1TB,smartphones,Flagship Phones,SAMSUNG
+492,Pad 6 128GB WiFi,tablets,Mid-Range Tablets,Xiaomi
+493,Gram 16 i5 16GB,laptops,Ultrabooks,LG
+494,Victus 15 i7 32GB,LAPTOPS,Gaming Laptops,HP
+495,IdeaPad Slim 3 i5 16GB,Laptops,Business Laptops,Lenovo
+496,iPhone 15 Pro 128GB,Smartphones,Flagship Phones,Apple
+497,G502 X Black,accessories,Mice,Logitech
+498,Galaxy A56 512GB,smartphones,Mid-Range Phones,Samsung
+499,Galaxy Z Flip 6 256GB,smartphones,Foldable Phones,samsung
+500,Predator Triton 14 i7 16GB,laptops,Gaming Laptops,Acer
+501,Odyssey G9 27 inch,MONITORS,Gaming Monitors,SAMSUNG
+502,EOS R5 Blue,cameras,Mirrorless Cameras,Canon
+503,Redmi 14C 512GB,smartphones,Budget Phones,xiaomi
+504,Galaxy Watch 7 Blue,Wearables,Smartwatches,Samsung
+505,Chromebook Spin 514 i9 32GB,Laptops,Ultrabooks,Acer
+506,Galaxy Tab A9 256GB Cellular,TABLETS,Entry Tablets,Samsung
+507,Inspiron 15 i7 16GB,Laptops,Business Laptops,Dell
+508,MX Master 3S Silver,Accessories,Mice,Logitech
+509,XPS 17 i9 32GB,laptops,Ultrabooks,Dell
+510,Galaxy Tab A9 512GB Cellular,Tablets,Entry Tablets,Samsung
+511,Pavilion 15 i7 16GB,LAPTOPS,Business Laptops ,HP
+512,UltraGear 27GP 32 inch,Monitors,Gaming Monitors,LG
+513,Apple Watch Ultra 2 Blue,wearables,Smartwatches,apple
+514,G15 Gaming i5 16GB,Laptops,Gaming Laptops,Dell
+515,G Pro X Superlight 2 Black,Accessories,Mice,logitech
+516,WH-CH720N Blue,Audio,Headphones,Sony
+517,Watch S4 Silver,Wearables,Smartwatches,Xiaomi
+518,UltraWide 34WP 34 inch,Monitors,Professional Monitors,LG
+519,WH-1000XM5 Black,audio,Headphones,Sony
+520,Predator Helios 16 i7 32GB,Laptops,Gaming Laptops,ACER
+521,iPhone 15 Pro 256GB,Smartphones,Flagship Phones,Apple
+522,Redmi Note 14 Pro 1TB,Smartphones,Mid-Range Phones,Xiaomi
+523,iPhone 15 Pro Max 256GB,Smartphones,Flagship Phones,Apple
+524,Predator Triton 14 i7 32GB,Laptops,Gaming Laptops ,Acer
+525,iPad Air 11 256GB Cellular,tablets, Mid-Range Tablets,Apple
+526,Latitude 5540 i7 16GB,laptops,Business Laptops,Dell
+527,iPhone 15 1TB,Smartphones,Flagship Phones,Apple
+528,iPhone 16 Plus 128GB,smartphones,Flagship Phones,Apple
+529,Redmi Note 14 Pro 256GB,Smartphones,Mid-Range Phones,Xiaomi
+530,14T Pro 1TB,Smartphones,Mid-Range Phones,xiaomi
+531,MacBook Pro 14 i9 32GB,laptops,Business Laptops,Apple
+532,ROG Strix G16 i7 16GB,Laptops,Gaming Laptops,asus
+533,Galaxy Tab S10 Ultra 256GB Cellular,TABLETS,Premium Tablets,Samsung
+534,Gram 17 i7 16GB,Laptops,Ultrabooks,LG
+535,Watch S4 Blue,Wearables,Smartwatches,Xiaomi
+536,ZenBook Duo i5 16GB,laptops, Ultrabooks,ASUS
+537,VivoBook 15 i7 32GB,Laptops,Business Laptops,ASUS
+538,Legion Pro 5 i5 16GB,Laptops,Gaming Laptops,lenovo
+539,Aspire 5 i7 16GB,LAPTOPS,Business Laptops,ACER
+540,ThinkPad X1 Carbon i7 16GB,LAPTOPS,Business Laptops,Lenovo
+541,UltraGear 27GP 34 inch,Monitors,Gaming Monitors,lg
+542,VivoBook 15 i7 16GB,Laptops,Business Laptops,ASUS
+543,iPhone 15 Pro Max 128GB,smartphones, Flagship Phones,Apple
+544,iPhone 16 Pro Max Graphite,smartphones,Flagship Phones,APPLE
+545,iPhone 16 Pro Graphite,SMARTPHONES,Flagship Phones,apple
+546,iPhone 16 Plus Graphite,Smartphones,Flagship Phones,apple
+547,iPhone 16 Graphite,Smartphones,Flagship Phones,apple
+548,iPhone 15 Pro Max Graphite,Smartphones,Flagship Phones,Apple
+549,iPhone 15 Pro Graphite,Smartphones,Flagship Phones,Apple
+550,iPhone 15 Graphite,smartphones,Flagship Phones,apple
+551,iPhone 14 Graphite,Smartphones,Mid-Range Phones,Apple
+552,iPhone SE Graphite,SMARTPHONES,Mid-Range Phones,Apple
+553,MacBook Air M4 Graphite,LAPTOPS,Ultrabooks,Apple
+554,MacBook Air M3 Graphite,laptops,Ultrabooks,apple
+555,MacBook Pro 14 Graphite,Laptops,Business Laptops,apple
+556,MacBook Pro 16 Graphite,LAPTOPS,Business Laptops,Apple
+557,iPad Pro 13 Graphite,Tablets,Premium Tablets,Apple
+558,iPad Air 11 Graphite,TABLETS, Mid-Range Tablets,Apple
+559,iPad 10th Gen Graphite,tablets,Entry Tablets,Apple
+560,iPad mini Graphite,TABLETS,Compact Tablets ,Apple
+561,Apple Watch Series 10 Graphite,wearables, Smartwatches,Apple
+562,Apple Watch Ultra 2 Graphite,Wearables,Smartwatches,Apple
+563,Apple Watch SE Graphite,wearables,Smartwatches,Apple
+564,AirPods Pro 2 Graphite,audio,Earbuds ,apple
+565,AirPods 4 Graphite,audio,Earbuds,Apple
+566,AirPods Max Graphite,audio,Headphones,apple
+567,iMac 24 Graphite,DESKTOPS,All-in-One,Apple
+568,Mac mini Graphite,Desktops,Mini PC,APPLE
+569,Studio Display Graphite,monitors,Professional Monitors,apple
+570,Galaxy S25 Ultra Graphite,smartphones,Flagship Phones,samsung
+571,Galaxy S25 Plus Graphite,Smartphones,Flagship Phones,Samsung
+572,Galaxy S25 Graphite,smartphones,Flagship Phones,samsung
+573,Galaxy S24 Ultra Graphite,Smartphones,Flagship Phones ,SAMSUNG
+574,Galaxy S24 Graphite,Smartphones,Flagship Phones,Samsung
+575,Galaxy A56 Graphite,Smartphones,Mid-Range Phones,Samsung
+576,Galaxy A36 Graphite,smartphones,Mid-Range Phones,samsung
+577,Galaxy A16 Graphite,Smartphones,Budget Phones,Samsung
+578,Galaxy Z Fold 6 Graphite,Smartphones,Foldable Phones,Samsung
+579,Galaxy Z Flip 6 Graphite,smartphones,Foldable Phones,SAMSUNG
+580,Galaxy Tab S10 Ultra Graphite,Tablets,Premium Tablets,samsung
+581,Galaxy Tab S10 Graphite,Tablets,Mid-Range Tablets,Samsung
+582,Galaxy Tab A9 Graphite,TABLETS,Entry Tablets,SAMSUNG
+583,Galaxy Watch 7 Graphite,wearables,Smartwatches,SAMSUNG
+584,Galaxy Watch Ultra Graphite,WEARABLES,Smartwatches,SAMSUNG
+585,Galaxy Buds 3 Pro Graphite,audio,Earbuds,SAMSUNG
+586,Galaxy Buds 3 Graphite,Audio, Earbuds,samsung
+587,Neo QLED 8K QN900D Graphite,TELEVISIONS,QLED TVs,Samsung
+588,QLED Q80D Graphite,Televisions,QLED TVs,Samsung
+589,Crystal UHD DU8000 Graphite,Televisions,LED TVs ,SAMSUNG
+590,The Frame Graphite,televisions,QLED TVs ,SAMSUNG
+591,Odyssey G9 Graphite,Monitors,Gaming Monitors,SAMSUNG
+592,ViewFinity S9 Graphite,monitors,Professional Monitors,SAMSUNG
+593,XPS 13 Graphite,laptops,Ultrabooks,Dell
+594,XPS 15 Graphite,laptops,Ultrabooks ,Dell
+595,XPS 17 Graphite,Laptops,Ultrabooks,DELL
+596,Inspiron 15 Graphite,Laptops,Business Laptops,Dell
+597,Inspiron 14 Graphite,Laptops,Business Laptops,Dell
+598,Latitude 7450 Graphite,Laptops,Business Laptops,Dell
+599,Latitude 5540 Graphite,Laptops,Business Laptops,dell
+600,Alienware m18 Graphite,LAPTOPS,Gaming Laptops,Dell
+601,Alienware x16 Graphite,Laptops,Gaming Laptops,DELL
+602,G15 Gaming Graphite,Laptops,Gaming Laptops,Dell
+603,UltraSharp U2723QE Graphite,Monitors,Professional Monitors,DELL
+604,S2722DGM Graphite,Monitors,Gaming Monitors,Dell
+605,Spectre x360 14 Graphite,Laptops, Ultrabooks,HP
+606,Spectre x360 16 Graphite,LAPTOPS,Ultrabooks,HP
+607,Envy 15 Graphite,laptops,Business Laptops,HP
+608,Pavilion 15 Graphite,Laptops,Business Laptops,hp
+609,Pavilion Aero 13 Graphite,laptops,Ultrabooks,HP
+610,EliteBook 840 Graphite,Laptops,Business Laptops,HP
+611,Omen 16 Graphite,Laptops,Gaming Laptops,hp
+612,Victus 15 Graphite,laptops,Gaming Laptops,hp
+613,E24 Monitor Graphite,Monitors,Professional Monitors,HP
+614,ThinkPad X1 Carbon Graphite,Laptops,Business Laptops,lenovo
+615,ThinkPad X1 Yoga Graphite,LAPTOPS,Business Laptops,LENOVO
+616,ThinkPad T14 Graphite,Laptops,Business Laptops,LENOVO
+617,IdeaPad Slim 3 Graphite,Laptops,Business Laptops,LENOVO
+618,IdeaPad 5 Graphite,Laptops,Business Laptops ,Lenovo
+619,Yoga 9i Graphite,laptops,Ultrabooks,lenovo
+620,Legion Pro 5 Graphite,Laptops,Gaming Laptops,lenovo
+621,Legion 5 Graphite,laptops,Gaming Laptops,Lenovo
+622,LOQ 15 Graphite,LAPTOPS,Gaming Laptops,LENOVO
+623,WH-1000XM6 Graphite,Audio,Headphones,sony
+624,WH-1000XM5 Graphite,AUDIO,Headphones,Sony
+625,WF-1000XM5 Graphite,Audio,Earbuds,Sony
+626,WH-CH720N Graphite,audio,Headphones,Sony
+627,Bravia XR A95L OLED Graphite,televisions,OLED TVs,SONY
+628,Bravia 9 Graphite,TELEVISIONS,LED TVs,SONY
+629,Alpha A7 IV Graphite,Cameras,Mirrorless Cameras,sony
+630,Alpha A7C II Graphite,Cameras,Mirrorless Cameras,Sony
+631,ZV-E10 Graphite,Cameras,Compact Cameras,Sony
+632,PlayStation 5 Graphite,GAMING,Consoles,Sony
+633,PlayStation 5 Slim Graphite,Gaming,Consoles,sony
+634,PlayStation 5 Pro Graphite,gaming,Consoles,Sony
+635,DualSense Controller Graphite,Gaming,Controllers,sony
+636,OLED C5 Graphite,Televisions,OLED TVs,LG
+637,OLED C4 Graphite,televisions,OLED TVs,LG
+638,OLED G4 Graphite,Televisions,OLED TVs,LG
+639,QNED 90 Graphite,televisions,LED TVs,LG
+640,UHD UR80 Graphite,televisions,LED TVs,LG
+641,Gram 16 Graphite,Laptops,Ultrabooks,LG
+642,Gram 17 Graphite,Laptops,Ultrabooks,LG
+643,UltraGear 27GP Graphite,monitors,Gaming Monitors,lg
+644,UltraWide 34WP Graphite,Monitors,Professional Monitors,LG
+645,ROG Zephyrus G14 Graphite,Laptops,Gaming Laptops ,ASUS
+646,ROG Strix G16 Graphite,Laptops,Gaming Laptops,ASUS
+647,ZenBook 14 OLED Graphite,laptops,Ultrabooks,ASUS
+648,ZenBook Duo Graphite,laptops,Ultrabooks,ASUS
+649,VivoBook 15 Graphite,Laptops,Business Laptops,ASUS
+650,TUF Gaming A15 Graphite,Laptops,Gaming Laptops ,ASUS
+651,ProArt Studiobook Graphite,Laptops,Business Laptops,ASUS
+652,ROG Swift PG27 Graphite,MONITORS,Gaming Monitors,ASUS
+653,TUF Gaming VG27 Graphite,monitors,Gaming Monitors,ASUS
+654,Predator Helios 16 Graphite,Laptops,Gaming Laptops,ACER
+655,Predator Triton 14 Graphite,Laptops,Gaming Laptops,Acer
+656,Swift Go 14 Graphite,Laptops,Ultrabooks,Acer
+657,Aspire 5 Graphite,Laptops,Business Laptops,ACER
+658,Nitro 5 Graphite,laptops,Gaming Laptops,Acer
+659,Chromebook Spin 514 Graphite,laptops, Ultrabooks,ACER
+660,Nitro XV272 Graphite,Monitors,Gaming Monitors,acer
+661,14 Ultra Graphite,Smartphones, Flagship Phones,XIAOMI
+662,14 Graphite,smartphones,Flagship Phones,Xiaomi
+663,14T Pro Graphite,Smartphones,Mid-Range Phones,xiaomi
+664,Redmi Note 14 Pro Graphite,smartphones,Mid-Range Phones,Xiaomi
+665,Redmi Note 14 Graphite,Smartphones,Mid-Range Phones,XIAOMI
+666,Poco X7 Pro Graphite,Smartphones,Mid-Range Phones,Xiaomi
+667,Redmi 14C Graphite,Smartphones,Budget Phones,XIAOMI
+668,Watch S4 Graphite,Wearables,Smartwatches,Xiaomi
+669,Smart Band 9 Graphite,wearables,Fitness Bands,Xiaomi
+670,Buds 5 Graphite,audio,Earbuds,XIAOMI
+671,Pad 6 Graphite,Tablets,Mid-Range Tablets,Xiaomi
+672,MX Master 3S Graphite,ACCESSORIES,Mice,LOGITECH
+673,MX Anywhere 3S Graphite,Accessories,Mice,logitech
+674,G Pro X Superlight 2 Graphite,Accessories,Mice,Logitech
+675,G502 X Graphite,accessories,Mice,Logitech
+676,MX Keys S Graphite,ACCESSORIES, Keyboards,Logitech
+677,MX Mechanical Graphite,Accessories,Keyboards,LOGITECH
+678,K380 Graphite,accessories,Keyboards,logitech
+679,C920 Webcam Graphite,Accessories,Webcams,Logitech
+680,Brio 4K Graphite,Accessories,Webcams,LOGITECH
+681,EOS R8 Graphite,Cameras,Mirrorless Cameras,Canon
+682,EOS R6 Mark II Graphite,Cameras,Mirrorless Cameras,Canon
+683,EOS R50 Graphite,cameras,Mirrorless Cameras,Canon
+684,EOS R100 Graphite,Cameras,Compact Cameras,Canon
+685,EOS R5 Graphite,Cameras,Mirrorless Cameras,canon
+686,PowerShot G7 X Mark III Graphite,Cameras,Compact Cameras,canon
+687,RF 50mm F1.8 Graphite,cameras,Lenses,canon
+688,RF 24-105mm F4 Graphite,cameras,Lenses,Canon
+689,iPhone 16 Pro Max Rose,smartphones,Flagship Phones,Apple
+690,iPhone 16 Pro Rose,Smartphones,Flagship Phones,apple
+691,iPhone 16 Plus Rose,SMARTPHONES,Flagship Phones,Apple
+692,iPhone 16 Rose,smartphones,Flagship Phones,APPLE
+693,iPhone 15 Pro Max Rose,smartphones,Flagship Phones,Apple
+694,iPhone 15 Pro Rose,SMARTPHONES,Flagship Phones,Apple
+695,iPhone 15 Rose,Smartphones,Flagship Phones,APPLE
+696,iPhone 14 Rose,Smartphones,Mid-Range Phones,Apple
+697,iPhone SE Rose,smartphones,Mid-Range Phones,APPLE
+698,MacBook Air M4 Rose,laptops,Ultrabooks,Apple
+699,MacBook Air M3 Rose,Laptops,Ultrabooks,Apple
+700,MacBook Pro 14 Rose,Laptops,Business Laptops,APPLE

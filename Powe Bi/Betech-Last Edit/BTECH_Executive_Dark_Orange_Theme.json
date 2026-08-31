@@ -1,0 +1,178 @@
+{
+  "name": "B.TECH Executive Dark Orange",
+  "dataColors": [
+    "#F14C18",
+    "#FF6B33",
+    "#7C3AED",
+    "#3B82F6",
+    "#14B8A6",
+    "#10B981",
+    "#F59E0B",
+    "#EF4444",
+    "#64748B"
+  ],
+  "background": "#0E001A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#F14C18",
+  "good": "#10B981",
+  "neutral": "#0EA5E9",
+  "bad": "#EF4444",
+  "minimum": "#291C33",
+  "center": "#F14C18",
+  "maximum": "#FF6B33",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#B8B3C9"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#FFFFFF"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#FFFFFF"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#291C33"
+              }
+            },
+            "transparency": 8
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#4A3B55"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#291C33"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "calloutValue": [
+          {
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 24,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          },
+          {
+            "color": {
+              "solid": {
+                "color": "#F14C18"
+              }
+            },
+            "selector": {
+              "metadata": "highlight"
+            }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": {
+              "solid": {
+                "color": "#B8B3C9"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#291C33"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 10,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          },
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F14C18"
+              }
+            },
+            "selector": {
+              "metadata": "highlight"
+            }
+          }
+        ],
+        "values": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

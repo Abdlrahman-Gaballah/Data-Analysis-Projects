@@ -1,0 +1,251 @@
+﻿EmployeeKey,EmployeeName,Department
+1,Noura Nasser,Sales
+2,Ali Shalaby,Customer Service
+3,Ava Jackson,Management
+4,Tarek Nasser,Sales
+5,Nasser Salem,Sales
+6,Amira Martin,Sales
+7,David Gaber,Finance
+8,Khaled Saad,Customer Service
+9,Amr Smith,Sales
+10,Doaa Nasser,Finance
+11,Amr Miller,Marketing
+12,Isabella Ibrahim,IT
+13,Isabella Rashad,Customer Service
+14,Joseph Saad,Customer Service
+15,Aya Al Otaibi,Sales
+16,Mia Fahmy,Customer Service
+17,Michael Al Harbi,Management
+18,Nasser Lewis,Sales
+19,Heba Gaber,Management
+20,Ghada Miller,Finance
+21,Tarek Shalaby,Customer Service
+22,Salma Mahmoud,Sales
+23,Mohamed Scott,Sales
+24,Ava King,Logistics
+25,Hassan Johnson,Management
+26,Emma Thomas,Sales
+27,Tarek Clark,Finance
+28,Fatima Ramadan,Customer Service
+29,Khaled Moore, Sales
+30,Karim Brown,Sales
+31,Yasmin Scott,Logistics
+32,Farida Clark,Management
+33,Khaled Khaled,Logistics
+34,Sophia Young,Sales
+35,Fahad Al Qahtani,Sales
+36,Hossam Hall,Logistics
+37,Latifa King,Finance
+38,Farida Martin,Logistics
+39,Amira Young,Sales
+40,David Moore,Marketing
+41,Wael Nasser,IT
+42,Robert Taylor,Customer Service
+43,Heba Mahmoud,Sales
+44,Fatima Khaled,Sales
+45,Daniel Nasser,Sales
+46,Ibrahim Walker,Sales
+47,John Brown,Customer Service
+48,Robert Al Dosari, Sales
+49,Wael Hall,Sales
+50,Nada Al Dosari,Logistics
+51,Ashraf Ibrahim,Sales
+52,Hossam Wilson,IT
+53,Sultan Miller, Customer Service
+54,Shaimaa Khaled,Sales
+55,John Mansour,Customer Service
+56,Hessa Hall,Sales
+57,Isabella Al Otaibi,Finance
+58,Mariam Al Ghamdi,Marketing
+59,Mariam Hassan,Customer Service
+60,Rana Gaber,Sales
+61,Heba Mahmoud, Sales
+62,Amelia Anderson,Finance
+63,Hassan Shalaby,Sales
+64,Ashraf Clark,Management
+65,Fatima King,Customer Service
+66,Menna Gaber,Sales
+67,Mia Rashad,Sales
+68,Isabella Ibrahim,Management
+69,Nada Mostafa,Sales
+70,Andrew Thomas,Logistics
+71,Ghada Hall,Customer Service
+72,Yasmin Nasser,Customer Service
+73,Emily Clark,Sales
+74,Faisal Scott,Logistics
+75,Reem Scott,Finance
+76,Sultan Wright,Sales
+77,Nada Johnson,Customer Service
+78,Faisal Scott,Management
+79,Sameh Hassan,Sales
+80,Michael Jackson,Logistics
+81,Robert Anderson,IT
+82,Olivia Gaber,Customer Service
+83,Nour Al Otaibi,Marketing
+84,Ali King,Customer Service
+85,Ashraf Al Harbi,Sales
+86,Bilal Al Ghamdi,Sales
+87,Wael Martin,Customer Service
+88,Andrew Rashad,Customer Service
+89,Sara Abdelrahman,Sales
+90,William Smith,Sales
+91,Mia Ramadan,Sales
+92,Sophia Thomas,Sales
+93,Ahmed Nasser,Management
+94,Emma Fahmy,Customer Service
+95,Hossam Fahmy,Marketing
+96,Daniel Mahmoud,Finance
+97,Olivia Khaled,Logistics
+98,Menna Shalaby,Finance
+99,Thomas Mahmoud,Sales 
+100,Sultan Anderson,IT
+101,Mostafa Lewis,Sales
+102,Sara Lewis,Customer Service
+103,Charlotte Al Otaibi,Sales
+104,Ava Wilson,Marketing
+105,Mostafa Al Otaibi,Sales
+106,Hossam Young,Sales
+107,Mariam Anderson, Sales
+108,Ghada Miller,IT
+109,Emily Thomas,Customer Service
+110,Omar El Sayed,Sales
+111,William Mostafa,Customer Service
+112,Grace Johnson,Customer Service
+113,Thomas Brown,Sales
+114,Isabella Khaled,Marketing
+115,Emma King,Sales
+116,Laila Walker,Marketing
+117,Omar Ramadan,Sales
+118,Olivia Ibrahim,Marketing
+119,Tarek Taylor,Marketing 
+120,Fatima Clark,IT
+121,Youssef Young,Logistics
+122,Hossam Al Ghamdi, Customer Service
+123,Hessa Brown, Customer Service
+124,Fatima Scott,Marketing
+125,Sultan Anderson,Customer Service
+126,Fahad Walker,Logistics
+127,Tarek Youssef,Sales
+128,Ashraf Saad,Sales
+129,Menna Taylor, Logistics
+130,Amr Al Qahtani,Sales
+131,Nada Anderson, Sales
+132,Hassan Jackson,Finance
+133,Ashraf Taylor,Sales
+134,Mahmoud Clark,Sales
+135,Bilal Young,Sales
+136,Noura Mostafa,Customer Service
+137,Aya Brown,Customer Service
+138,Majed Anderson,Sales
+139,Mariam Lewis,Management
+140,Youssef Jackson,Sales
+141,Emily Lewis,Sales
+142,Rana Scott,Sales
+143,Heba Young,Customer Service
+144,Hassan Young,Logistics 
+145,Faisal Moore,Customer Service
+146,Aya Mahmoud,Sales
+147,Noura King,Customer Service
+148,Laila Saad,Customer Service
+149,Sara Clark,Sales
+150,Amira Clark,IT
+151,David Nasser,Logistics
+152,Emma Taylor,Customer Service
+153,Mona Gaber,Logistics
+154,Emily Mahmoud,Customer Service
+155,Sophia Anderson,Sales
+156,Dina Young,Customer Service
+157,Faisal Wright,Sales
+158,Michael Jackson,Sales
+159,Daniel Clark,Sales
+160,William Salem,Marketing
+161,Khaled Al Harbi,Sales
+162,Heba Al Otaibi,Management
+163,Omar Mahmoud,Sales
+164,Joseph Shalaby,Sales
+165,Sara Abdelrahman,Finance
+166,Sophia Mostafa,Sales
+167,Mona Salem,Sales
+168,Nasser Lewis,Marketing
+169,Emily Davis,Sales
+170,Fahad Al Harbi,IT
+171,Sameh Rashad,Sales
+172,Fatima Scott,Sales
+173,Ava Martin,Sales
+174,Mostafa Al Dosari,Management
+175,Amelia Jackson,Management
+176,Mostafa Mansour,Sales
+177,Amira Mansour,Sales
+178,Emily Al Dosari,Sales
+179,Michael Al Otaibi, Management
+180,John Young,Sales
+181,Khaled Young,Customer Service
+182,Isabella Mahmoud,Sales
+183,Mia Hassan,Customer Service
+184,David Shalaby,Sales
+185,Ahmed Mostafa,Sales
+186,Daniel Martin,Logistics
+187,Aisha Anderson,Customer Service
+188,Laila Wilson,IT
+189,Mahmoud Saad,Customer Service
+190,Yasmin Mahmoud,Management
+191,Ashraf El Sayed,Sales
+192,Sophia King,Marketing
+193,Charlotte Anderson,Marketing
+194,Charlotte El Sayed,Sales
+195,Faisal Wilson,Sales
+196,Ibrahim Hall,Sales
+197,Youssef Farouk,IT
+198,Reem Shalaby,Customer Service
+199,Sophia Scott,Logistics
+200,Sherif Anderson,Sales
+201,Farida Ibrahim,Sales
+202,Amelia Moore,Customer Service
+203,Mohamed Miller,Management
+204,Bilal Moore,Marketing
+205,Hana Davis,Sales
+206,Nada Rashad,Sales
+207,Doaa Jackson,Marketing
+208,Daniel Moore,Finance
+209,Mariam Walker,Customer Service
+210,Rana Wilson,Logistics
+211,Ava Al Dosari,Sales
+212,Mariam Wright,Customer Service
+213,Noura Clark,Sales
+214,Laila Thomas,Customer Service
+215,Aisha Youssef,Sales
+216,Majed King,Sales
+217,Isabella Hall,IT
+218,Michael Ali,Customer Service
+219,Fahad Miller,Sales 
+220,Aisha Johnson,Logistics
+221,Latifa Fahmy,Logistics
+222,William Taylor,Sales
+223,Noura Hall,Marketing
+224,Sophia Moore,Customer Service
+225,Doaa Walker,Sales
+226,Salma Al Ghamdi,Marketing
+227,Joseph Al Otaibi,Sales
+228,Hassan Taylor,Sales
+229,Tarek Abdelrahman,Logistics
+230,Tarek Ibrahim,Finance
+231,Dina Davis,Sales
+232,Mostafa Wilson,Sales
+233,Aya Farouk,Customer Service
+234,Ahmed Brown,Customer Service
+235,Olivia Saad,Finance
+236,Khaled Al Dosari,Management
+237,Omar Martin,Sales
+238,Andrew Al Otaibi,Sales
+239,Emily King,Sales
+240,Hana Al Dosari,Sales
+241,Mohamed Brown,Sales
+242,Mostafa Hassan,Sales
+243,Menna Mansour,IT
+244,Dina Ali,Customer Service
+245,Mostafa Miller,Customer Service
+246,Nasser Wright,Customer Service
+247,Nasser Scott,Sales
+248,Sophia Mansour,Logistics
+249,Sophia Zaki,Logistics
+250,Ghada Hall,Sales
